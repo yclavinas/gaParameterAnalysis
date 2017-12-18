@@ -83,18 +83,6 @@ def main(func,
     logbook = tools.Logbook()
     logbook.header = "gen", "min", "avg", "max", "std"
     pop = toolbox.population(n)
-    # get initial pop
-    filename = ("../pseudo-adaptative/init_pop_f" +
-                str(f_name) +
-                "_dim_" +
-                str(dim) +
-                "_tournsize_2.txt")
-    if((np.DataSource().exists(filename)) is True):
-        with open(filename, 'r') as f:
-            a = eval(f.readline())
-        f.close()
-        for index in range(len(pop[0])):
-            pop[0][index] = a[index]
     # Evaluate the entire population
     # 2 model.bins: real data, generated model
     fitnesses = list(toolbox.map(toolbox.evaluate, pop))
@@ -145,18 +133,6 @@ def main(func,
             g += 1
             record = stats.compile(pop)
             logbook.record(gen=g, **record)
-    filename = ("../SBX/init_pop_f" +
-                str(f_name) +
-                "_dim_" +
-                str(dim) +
-                "_tournsize_2.txt")
-    if((np.DataSource().exists(filename)) is False):
-        with open(filename, "w") as myfile:
-            for element in best_pop:
-                myfile.write(str(element))
-                myfile.write(str(', '))
-            myfile.write(str('\n'))
-        myfile.close()
     return logbook
 
 
