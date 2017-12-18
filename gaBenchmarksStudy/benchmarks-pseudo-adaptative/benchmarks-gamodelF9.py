@@ -152,7 +152,7 @@ def main(func,
                 str(dim) +
                 "_tournsize_2.txt")
     if((np.DataSource().exists(filename)) is False):
-        with open(filename, 'r') as f:
+        with open(filename, 'w') as f:
             print("salvando best pop to init")
             f.write(str(best_pop))
         f.close()
@@ -212,7 +212,7 @@ if __name__ == "__main__":
                 "_dim_" +
                 str(dim) +
                 "_tournsize_2.txt")
-    if((np.DataSource().exists(filename)) is True): 
+    if((np.DataSource().exists(filename)) is False): 
         print('random seeding...')
         random.seed(params['seed'])
     logbook = main(e.evalfun,
