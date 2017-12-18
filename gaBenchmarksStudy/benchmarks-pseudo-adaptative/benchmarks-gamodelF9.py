@@ -90,6 +90,7 @@ def main(func,
                 str(dim) +
                 "_tournsize_2.txt")
     if((np.DataSource().exists(filename)) is True):
+        print('tem init pop')
         with open(filename, 'r') as f:
             a = eval(f.readline())
         f.close()
