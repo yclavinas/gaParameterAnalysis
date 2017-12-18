@@ -84,7 +84,7 @@ def main(func,
     logbook.header = "gen", "min", "avg", "max", "std"
     pop = toolbox.population(n)
     # get initial pop
-    filename = ("../init_pops/init_pop_f" +
+    filename = ("gaBenchmarksStudy/init_pops/init_pop_f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +
