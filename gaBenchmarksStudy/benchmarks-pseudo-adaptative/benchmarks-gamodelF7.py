@@ -206,7 +206,7 @@ if __name__ == "__main__":
                    tournsize=tournsize,
                    ftarget=e.ftarget)
 
-    filename = ("../pseudo-adaptative/f" +
+    filename = ("gaBenchmarksStudy/pseudo-adaptative/f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +

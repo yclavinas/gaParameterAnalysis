@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "benchmarks/benchmarks-gamodelF9.py", line 19, in <module>
-    from deap import base
-ImportError: No module named deap
-Traceback (most recent call last):
-  File "benchmarks/benchmarks-gamodelF9.py", line 19, in <module>
-    from deap import base
-ImportError: No module named deap
