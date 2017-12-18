@@ -152,10 +152,13 @@ def main(func,
                 str(dim) +
                 "_tournsize_2.txt")
     if((np.DataSource().exists(filename)) is False):
-        with open(filename, 'w') as f:
+        with open(filename, "w") as myfile:
             print("salvando best pop to init")
-            f.write(str(best_pop))
-        f.close()
+            for element in best_pop:
+                myfile.write(str(element))
+                myfile.write(str(', '))
+            myfile.write(str('\n'))
+        myfile.close()
     return logbook
 
 
