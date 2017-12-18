@@ -90,7 +90,7 @@ def main(func,
                 str(dim) +
                 "_tournsize_2.txt")
     if((np.DataSource().exists(filename)) is True):
-        print('tem init pop')
+        print("tem pop init")
         with open(filename, 'r') as f:
             a = eval(f.readline())
         f.close()
@@ -146,6 +146,16 @@ def main(func,
             g += 1
             record = stats.compile(pop)
             logbook.record(gen=g, **record)
+    filename = ("gaBenchmarksStudy/init_pops/init_pop_f" +
+                str(f_name) +
+                "_dim_" +
+                str(dim) +
+                "_tournsize_2.txt")
+    if((np.DataSource().exists(filename)) is False):
+        with open(filename, 'r') as f:
+            print("salvando best pop to init")
+            f.write(str(best_pop))
+        f.close()
     return logbook
 
 
@@ -197,7 +207,14 @@ if __name__ == "__main__":
     # Independent restarts until maxfunevals or ftarget is reached
     # Run the algorithm with the remaining
     # number of evaluations
-    random.seed(params['seed'])
+    filename = ("gaBenchmarksStudy/init_pops/init_pop_f" +
+                str(f_name) +
+                "_dim_" +
+                str(dim) +
+                "_tournsize_2.txt")
+    if((np.DataSource().exists(filename)) is False): 
+        print('random seeding...')
+        random.seed(params['seed'])
     logbook = main(e.evalfun,
                    NGEN=params['NGEN'],
                    CXPB=params['CXPB'],
