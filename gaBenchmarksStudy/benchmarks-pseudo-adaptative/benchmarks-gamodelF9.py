@@ -212,7 +212,7 @@ if __name__ == "__main__":
                 "_dim_" +
                 str(dim) +
                 "_tournsize_2.txt")
-    if((np.DataSource().exists(filename)) is False): 
+    if((np.DataSource().exists(filename)) is True): 
         print('random seeding...')
         random.seed(params['seed'])
     logbook = main(e.evalfun,
