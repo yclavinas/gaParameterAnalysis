@@ -122,16 +122,6 @@ def main(func,
         pop[:] = offspring
         record = stats.compile(pop)
         logbook.record(gen=g, **record)
-        if record["std"] < 10e-12:
-            best_pop = tools.selBest(pop, 1)[0]
-            pop = toolbox.population(n)
-            pop = sorted(pop, key=attrgetter("fitness"))
-            pop[0] = best_pop
-            fitnesses = list(toolbox.map(toolbox.evaluate, pop))
-            for ind, fit in zip(pop, fitnesses):
-                ind.fitness.values = fit
-            g += 1
-            record = stats.compile(pop)
     return logbook
 
 
