@@ -164,7 +164,7 @@ if __name__ == "__main__":
 
     # Iterate over a set of benchmarks (noise free benchmarks here)
     # for f_name in bn.nfreeIDs:
-    f_name = 9
+    f_name = 10
     # Iterate over all the instance of a single problem
     # Rotation, translation, etc.
     # for instance in chain(range(1, 6), range(21, 31)):

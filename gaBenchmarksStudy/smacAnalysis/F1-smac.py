@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys
 import array
 import random
