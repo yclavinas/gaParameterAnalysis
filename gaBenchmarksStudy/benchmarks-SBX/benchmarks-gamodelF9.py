@@ -83,6 +83,7 @@ def main(func,
     logbook = tools.Logbook()
     logbook.header = "gen", "min", "avg", "max", "std"
     pop = toolbox.population(n)
+    # get initial pop
     # Evaluate the entire population
     # 2 model.bins: real data, generated model
     fitnesses = list(toolbox.map(toolbox.evaluate, pop))

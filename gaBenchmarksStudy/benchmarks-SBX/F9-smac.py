@@ -1,18 +1,3 @@
-#!/usr/bin/python
-#    This file is part of DEAP.
-#
-#    DEAP is free software: you can redistribute it and/or modify
-#    it under the terms of the GNU Lesser General Public License as
-#    published by the Free Software Foundation, either version 3 of
-#    the License, or (at your option) any later version.
-#
-#    DEAP is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-#    GNU Lesser General Public License for more details.
-#
-#    You should have received a copy of the GNU Lesser General Public
-#    License along with DEAP. If not, see <http://www.gnu.org/licenses/>.
 import sys
 import array
 import random
@@ -204,18 +189,6 @@ if __name__ == "__main__":
                    indp=indp
                  )
 
-    # filename = ("gaBenchmarksStudy/SBX/f" +
-    #             str(f_name) +
-    #             "_dim_" +
-    #             str(dim) +
-    #             "_tournsize_" +
-    #             str(tournsize) +
-    #             ".txt")
-
-    # with open(filename, "a") as myfile:
-    #     myfile.write(str(logbook))
-    #     myfile.write(str('\n'))
-    # myfile.close()
 
 
     # SMAC has a few different output fields; here, we only need the 4th output:
