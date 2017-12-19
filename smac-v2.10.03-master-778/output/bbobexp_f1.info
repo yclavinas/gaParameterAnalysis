@@ -187,3 +187,6 @@ data_f1/bbobexp-61_f1_DIM10.dat, 1:37958|5.3e+00
 funcId = 1, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
 % 
 data_f1/bbobexp-62_f1_DIM10.dat, 1:500|2.3e+01
+funcId = 1, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f1/bbobexp_f1_DIM40.dat, 1:21888|1.3e+02

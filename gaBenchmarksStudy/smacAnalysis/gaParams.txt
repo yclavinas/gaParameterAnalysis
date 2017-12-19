@@ -1,0 +1,2 @@
+#key, NGEN, n_aval, dim
+params 80 40000 40 
