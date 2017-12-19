@@ -1,3 +1,6 @@
-tournsize integer [2,25] [3]
-params categorical {benchmarks/output} [benchmarks/output]
-
+CXPB real [0,1] [0.9]
+MUTPB real [0,1] [0.1]
+eta integer [0,10] [0]
+mu real [0,1] [0]
+indp real [0,1] [0.1]
+sigma real [0,10] [1]
