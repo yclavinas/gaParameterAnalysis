@@ -1,6 +1,6 @@
 CXPB real [0,1] [0.9]
 MUTPB real [0,1] [0.1]
-eta integer [0,10] [0]
+eta integer [0,1] [0]
 mu real [0,1] [0]
 indp real [0,1] [0.1]
 sigma real [0,10] [1]
