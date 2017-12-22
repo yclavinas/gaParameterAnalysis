@@ -3,4 +3,37 @@ funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
 data_f23/bbobexp_f23_DIM40.dat, 1
 funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
 % 
-data_f23/bbobexp-01_f23_DIM40.dat, 1
+data_f23/bbobexp-01_f23_DIM40.dat, 1:365308|3.1e+00:364886|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-02_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-03_f23_DIM40.dat, 1:364762|2.5e+00:364063|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-04_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-05_f23_DIM40.dat, 1:364374|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-06_f23_DIM40.dat, 1:364772|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-07_f23_DIM40.dat, 1:364761|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-08_f23_DIM40.dat, 1:364591|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-09_f23_DIM40.dat, 1:364743|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-10_f23_DIM40.dat, 1:364673|2.7e+00:364503|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-11_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-12_f23_DIM40.dat, 1
