@@ -27,5 +27,6 @@ do
 		nohup python2.7 gaBenchmarksStudy/benchmarks-SBX/benchmarks-gamodelF22.py -tournsize "$i" -params 'gaBenchmarksStudy/benchmarks-SBX/gaParams.txt' & 
 		nohup python2.7 gaBenchmarksStudy/benchmarks-SBX/benchmarks-gamodelF23.py -tournsize "$i" -params 'gaBenchmarksStudy/benchmarks-SBX/gaParams.txt' & 
 		nohup python2.7 gaBenchmarksStudy/benchmarks-SBX/benchmarks-gamodelF24.py -tournsize "$i" -params 'gaBenchmarksStudy/benchmarks-SBX/gaParams.txt' & 
+		wait
 	done
 done
