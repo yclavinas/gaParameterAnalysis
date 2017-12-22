@@ -75,7 +75,7 @@ def main(func,
     toolbox.register("evaluate", func)
     toolbox.decorate("evaluate", tupleize)
     toolbox.register("attr_float", random.uniform, -5, 5)
-    toolbox.register("mate", tools.cxUniform, 0.1)
+    toolbox.register("mate", tools.cxUniform)
     toolbox.register("individual", tools.initRepeat, creator.Individual,
                      toolbox.attr_float, dim)
     toolbox.register("population", tools.initRepeat, list, toolbox.individual)
@@ -101,7 +101,7 @@ def main(func,
         # Apply crossover and mutation on the offspring
         for child1, child2 in zip(offspring[::2], offspring[1::2]):
             if random.random() < CXPB:
-                toolbox.mate(child1, child2)
+                toolbox.mate(child1, child2, 0.1)
                 del child1.fitness.values
                 del child2.fitness.values
         for mutant in offspring:
@@ -184,7 +184,7 @@ if __name__ == "__main__":
                    tournsize=tournsize,
                    ftarget=e.ftarget)
 
-    filename = ("../uniform/f" +
+    filename = ("gaBenchmarksStudy/SBX/f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +

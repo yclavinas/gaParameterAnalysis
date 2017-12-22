@@ -184,7 +184,7 @@ if __name__ == "__main__":
                    tournsize=tournsize,
                    ftarget=e.ftarget)
 
-    filename = ("../uniform/f" +
+    filename = ("gaBenchmarksStudy/SBX/f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +
