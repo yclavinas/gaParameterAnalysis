@@ -75,7 +75,7 @@ def main(func,
     toolbox.register("evaluate", func)
     toolbox.decorate("evaluate", tupleize)
     toolbox.register("attr_float", random.uniform, -5, 5)
-    toolbox.register("mate", tools.cxUniform, 0.1)
+    toolbox.register("mate", tools.cxSimulatedBinaryBounded, eta = 0, low= -5, up = 5)
     toolbox.register("individual", tools.initRepeat, creator.Individual,
                      toolbox.attr_float, dim)
     toolbox.register("population", tools.initRepeat, list, toolbox.individual)
@@ -83,18 +83,6 @@ def main(func,
     logbook = tools.Logbook()
     logbook.header = "gen", "min", "avg", "max", "std"
     pop = toolbox.population(n)
-    # get initial pop
-    filename = ("gaBenchmarksStudy/init_pops/init_pop_f" +
-                str(f_name) +
-                "_dim_" +
-                str(dim) +
-                "_tournsize_2.txt")
-    if((np.DataSource().exists(filename)) is True):
-        with open(filename, 'r') as f:
-            a = eval(f.readline())
-        f.close()
-        for index in range(len(pop[0])):
-            pop[0][index] = a[index]
     # Evaluate the entire population
     # 2 model.bins: real data, generated model
     fitnesses = list(toolbox.map(toolbox.evaluate, pop))
@@ -108,7 +96,7 @@ def main(func,
         # Select the next generation individuals
         offspring = toolbox.select(pop, len(pop))
         # create offspring
-        offspring = list(toolbox.map(toolbox.clone, offspring))
+        # offspring = list(toolbox.map(toolbox.clone, offspring))
         # Apply crossover and mutation on the offspring
         for child1, child2 in zip(offspring[::2], offspring[1::2]):
             if random.random() < CXPB:
@@ -134,18 +122,6 @@ def main(func,
         pop[:] = offspring
         record = stats.compile(pop)
         logbook.record(gen=g, **record)
-    filename = ("gaBenchmarksStudy/init_pops/init_pop_f" +
-                str(f_name) +
-                "_dim_" +
-                str(dim) +
-                "_tournsize_2.txt")
-    if((np.DataSource().exists(filename)) is False):
-        with open(filename, "w") as myfile:
-            for element in best_pop:
-                myfile.write(str(element))
-                myfile.write(str(', '))
-            myfile.write(str('\n'))
-        myfile.close()
     return logbook
 
 
@@ -186,7 +162,7 @@ if __name__ == "__main__":
 
     # Iterate over a set of benchmarks (noise free benchmarks here)
     # for f_name in bn.nfreeIDs:
-    f_name = 17
+    f_name = 13
     # Iterate over all the instance of a single problem
     # Rotation, translation, etc.
     # for instance in chain(range(1, 6), range(21, 31)):
@@ -197,7 +173,7 @@ if __name__ == "__main__":
     # Independent restarts until maxfunevals or ftarget is reached
     # Run the algorithm with the remaining
     # number of evaluations
-    random.seed(params['seed'])
+    # random.seed(params['seed'])
     logbook = main(e.evalfun,
                    NGEN=params['NGEN'],
                    CXPB=params['CXPB'],
@@ -207,7 +183,7 @@ if __name__ == "__main__":
                    tournsize=tournsize,
                    ftarget=e.ftarget)
 
-    filename = ("gaBenchmarksStudy/pseudo-adaptative/f" +
+    filename = ("gaBenchmarksStudy/SBX/f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +
