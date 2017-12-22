@@ -75,7 +75,7 @@ def main(func,
     toolbox.register("evaluate", func)
     toolbox.decorate("evaluate", tupleize)
     toolbox.register("attr_float", random.uniform, -5, 5)
-    toolbox.register("mate", tools.cxUniform, 0.1)
+    toolbox.register("mate", tools.cxUniform)
     toolbox.register("individual", tools.initRepeat, creator.Individual,
                      toolbox.attr_float, dim)
     toolbox.register("population", tools.initRepeat, list, toolbox.individual)
@@ -184,7 +184,7 @@ if __name__ == "__main__":
                    tournsize=tournsize,
                    ftarget=e.ftarget)
 
-    filename = ("gaBenchmarksStudy/SBX/f" +
+    filename = ("gaBenchmarksStudy/uniform/f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +
