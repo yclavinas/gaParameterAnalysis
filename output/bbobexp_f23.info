@@ -36,4 +36,1687 @@ funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
 data_f23/bbobexp-11_f23_DIM40.dat, 1
 funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
 % 
-data_f23/bbobexp-12_f23_DIM40.dat, 1
+data_f23/bbobexp-12_f23_DIM40.dat, 1:364808|3.4e+00:364928|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-13_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-14_f23_DIM40.dat, 1:364225|3.1e+00:364410|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-15_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-16_f23_DIM40.dat, 1:364798|2.5e+00:364857|3.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-17_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-18_f23_DIM40.dat, 1:364977|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-19_f23_DIM40.dat, 1:365089|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-20_f23_DIM40.dat, 1:364671|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-21_f23_DIM40.dat, 1:364985|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-22_f23_DIM40.dat, 1:364300|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-23_f23_DIM40.dat, 1:365223|2.8e+00:364639|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-24_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-25_f23_DIM40.dat, 1:364718|3.1e+00:364647|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-26_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-27_f23_DIM40.dat, 1:364952|3.1e+00:364383|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-28_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-29_f23_DIM40.dat, 1:364650|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-30_f23_DIM40.dat, 1:364898|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-31_f23_DIM40.dat, 1:365061|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-32_f23_DIM40.dat, 1:364809|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-33_f23_DIM40.dat, 1:364790|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-34_f23_DIM40.dat, 1:364830|3.0e+00:364897|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-35_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-36_f23_DIM40.dat, 1:364811|2.6e+00:365123|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-37_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-38_f23_DIM40.dat, 1:364750|3.2e+00:364686|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-39_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-40_f23_DIM40.dat, 1:364910|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-41_f23_DIM40.dat, 1:364701|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-42_f23_DIM40.dat, 1:364839|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-43_f23_DIM40.dat, 1:365094|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-44_f23_DIM40.dat, 1:364441|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-45_f23_DIM40.dat, 1:364772|2.9e+00:364586|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-46_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-47_f23_DIM40.dat, 1:364869|3.5e+00:364924|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-48_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-49_f23_DIM40.dat, 1:364811|3.0e+00:364445|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-50_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-51_f23_DIM40.dat, 1:364778|3.4e+00:364964|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-52_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-53_f23_DIM40.dat, 1:364705|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-54_f23_DIM40.dat, 1:365028|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-55_f23_DIM40.dat, 1:364554|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-56_f23_DIM40.dat, 1:364915|3.2e+00:364847|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-57_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-58_f23_DIM40.dat, 1:364374|3.0e+00:365115|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-59_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-60_f23_DIM40.dat, 1:364978|2.5e+00:364823|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-61_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-62_f23_DIM40.dat, 1:364605|1.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-63_f23_DIM40.dat, 1:364932|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-64_f23_DIM40.dat, 1:365014|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-65_f23_DIM40.dat, 1:364633|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-66_f23_DIM40.dat, 1:364884|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-67_f23_DIM40.dat, 1:364843|3.0e+00:364890|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-68_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-69_f23_DIM40.dat, 1:364919|3.1e+00:364715|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-70_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-71_f23_DIM40.dat, 1:364636|3.0e+00:364882|3.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-72_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-73_f23_DIM40.dat, 1:364829|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-74_f23_DIM40.dat, 1:364624|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-75_f23_DIM40.dat, 1:365000|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-76_f23_DIM40.dat, 1:365122|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-77_f23_DIM40.dat, 1:365124|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-78_f23_DIM40.dat, 1:364801|3.3e+00:364420|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-79_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-80_f23_DIM40.dat, 1:364755|3.3e+00:364806|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-81_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-82_f23_DIM40.dat, 1:364941|2.2e+00:364599|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-83_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-84_f23_DIM40.dat, 1:364792|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-85_f23_DIM40.dat, 1:364309|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-86_f23_DIM40.dat, 1:364352|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-87_f23_DIM40.dat, 1:364897|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-88_f23_DIM40.dat, 1:364971|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-89_f23_DIM40.dat, 1:365053|3.4e+00:364765|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-90_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-91_f23_DIM40.dat, 1:364847|3.4e+00:364524|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-92_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-93_f23_DIM40.dat, 1:364872|2.3e+00:364895|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-94_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-95_f23_DIM40.dat, 1:364430|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-96_f23_DIM40.dat, 1:364536|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-97_f23_DIM40.dat, 1:364913|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-98_f23_DIM40.dat, 1:364456|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-99_f23_DIM40.dat, 1:364696|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-100_f23_DIM40.dat, 1:364784|3.0e+00:364451|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-101_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-102_f23_DIM40.dat, 1:364318|2.7e+00:364691|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-103_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-104_f23_DIM40.dat, 1:364421|2.7e+00:365130|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-105_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-106_f23_DIM40.dat, 1:364766|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-107_f23_DIM40.dat, 1:364534|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-108_f23_DIM40.dat, 1:364953|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-109_f23_DIM40.dat, 1:364304|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-110_f23_DIM40.dat, 1:364687|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-111_f23_DIM40.dat, 1:365084|3.1e+00:365427|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-112_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-113_f23_DIM40.dat, 1:364710|3.0e+00:364691|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-114_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-115_f23_DIM40.dat, 1:364924|2.8e+00:364677|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-116_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-117_f23_DIM40.dat, 1:364906|1.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-118_f23_DIM40.dat, 1:364316|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-119_f23_DIM40.dat, 1:364858|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-120_f23_DIM40.dat, 1:364837|3.0e+00:364750|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-121_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-122_f23_DIM40.dat, 1:364995|3.1e+00:364721|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-123_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-124_f23_DIM40.dat, 1:365095|2.8e+00:364552|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-125_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-126_f23_DIM40.dat, 1:364735|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-127_f23_DIM40.dat, 1:364527|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-128_f23_DIM40.dat, 1:364438|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-129_f23_DIM40.dat, 1:364794|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-130_f23_DIM40.dat, 1:364836|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-131_f23_DIM40.dat, 1:364652|3.1e+00:364599|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-132_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-133_f23_DIM40.dat, 1:364849|2.8e+00:364703|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-134_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-135_f23_DIM40.dat, 1:365036|1.8e+00:364565|1.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-136_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-137_f23_DIM40.dat, 1:364937|1.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-138_f23_DIM40.dat, 1:364298|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-139_f23_DIM40.dat, 1:365083|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-140_f23_DIM40.dat, 1:364714|3.1e+00:365077|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-141_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-142_f23_DIM40.dat, 1:364683|3.2e+00:364569|1.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-143_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-144_f23_DIM40.dat, 1:365084|2.0e+00:365300|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-145_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-146_f23_DIM40.dat, 1:364912|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-147_f23_DIM40.dat, 1:365115|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-148_f23_DIM40.dat, 1:364765|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-149_f23_DIM40.dat, 1:364935|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-150_f23_DIM40.dat, 1:364960|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-151_f23_DIM40.dat, 1:364549|3.0e+00:365161|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-152_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-153_f23_DIM40.dat, 1:364364|3.0e+00:365009|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-154_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-155_f23_DIM40.dat, 1:365511|1.8e+00:364945|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-156_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-157_f23_DIM40.dat, 1:365281|2.8e+00:365189|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-158_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-159_f23_DIM40.dat, 1:364865|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-160_f23_DIM40.dat, 1:364745|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-161_f23_DIM40.dat, 1:364533|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-162_f23_DIM40.dat, 1:364858|3.1e+00:364763|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-163_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-164_f23_DIM40.dat, 1:364717|2.5e+00:364981|2.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-165_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-166_f23_DIM40.dat, 1:364753|2.3e+00:364691|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-167_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-168_f23_DIM40.dat, 1:364921|1.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-169_f23_DIM40.dat, 1:364856|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-170_f23_DIM40.dat, 1:364397|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-171_f23_DIM40.dat, 1:364597|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-172_f23_DIM40.dat, 1:364778|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-173_f23_DIM40.dat, 1:364968|3.0e+00:364721|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-174_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-175_f23_DIM40.dat, 1:364831|2.7e+00:364779|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-176_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-177_f23_DIM40.dat, 1:364711|1.5e+00:364630|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-178_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-179_f23_DIM40.dat, 1:364863|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-180_f23_DIM40.dat, 1:364523|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-181_f23_DIM40.dat, 1:364947|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-182_f23_DIM40.dat, 1:365156|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-183_f23_DIM40.dat, 1:364958|2.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-184_f23_DIM40.dat, 1:365006|3.5e+00:364943|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-185_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-186_f23_DIM40.dat, 1:365079|2.9e+00:365347|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-187_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-188_f23_DIM40.dat, 1:364579|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-189_f23_DIM40.dat, 1:365144|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-190_f23_DIM40.dat, 1:365031|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-191_f23_DIM40.dat, 1:365296|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-192_f23_DIM40.dat, 1:364616|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-193_f23_DIM40.dat, 1:364526|3.3e+00:364575|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-194_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-195_f23_DIM40.dat, 1:365011|3.1e+00:364639|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-196_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-197_f23_DIM40.dat, 1:364789|3.5e+00:365122|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-198_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-199_f23_DIM40.dat, 1:364863|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-200_f23_DIM40.dat, 1:364482|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-201_f23_DIM40.dat, 1:364925|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-202_f23_DIM40.dat, 1:364910|3.1e+00:364969|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-203_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-204_f23_DIM40.dat, 1:364774|2.9e+00:364757|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-205_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-206_f23_DIM40.dat, 1:364756|2.9e+00:364922|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-207_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-208_f23_DIM40.dat, 1:364855|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-209_f23_DIM40.dat, 1:365001|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-210_f23_DIM40.dat, 1:364862|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-211_f23_DIM40.dat, 1:364590|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-212_f23_DIM40.dat, 1:364771|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-213_f23_DIM40.dat, 1:364778|3.0e+00:364674|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-214_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-215_f23_DIM40.dat, 1:364340|2.6e+00:364573|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-216_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-217_f23_DIM40.dat, 1:365163|3.0e+00:364778|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-218_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-219_f23_DIM40.dat, 1:364691|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-220_f23_DIM40.dat, 1:364372|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-221_f23_DIM40.dat, 1:364721|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-222_f23_DIM40.dat, 1:364890|2.9e+00:364858|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-223_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-224_f23_DIM40.dat, 1:365032|2.3e+00:365046|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-225_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-226_f23_DIM40.dat, 1:364663|2.7e+00:364935|1.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-227_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-228_f23_DIM40.dat, 1:364875|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-229_f23_DIM40.dat, 1:364766|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-230_f23_DIM40.dat, 1:365178|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-231_f23_DIM40.dat, 1:365308|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-232_f23_DIM40.dat, 1:365039|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-233_f23_DIM40.dat, 1:364829|3.1e+00:364777|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-234_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-235_f23_DIM40.dat, 1:364472|3.0e+00:364511|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-236_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-237_f23_DIM40.dat, 1:364797|1.8e+00:364528|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-238_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-239_f23_DIM40.dat, 1:364830|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-240_f23_DIM40.dat, 1:364765|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-241_f23_DIM40.dat, 1:364421|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-242_f23_DIM40.dat, 1:364639|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-243_f23_DIM40.dat, 1:364767|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-244_f23_DIM40.dat, 1:364940|2.9e+00:364535|3.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-245_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-246_f23_DIM40.dat, 1:364865|3.1e+00:364926|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-247_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-248_f23_DIM40.dat, 1:365210|1.8e+00:364943|2.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-249_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-250_f23_DIM40.dat, 1:365038|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-251_f23_DIM40.dat, 1:364205|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-252_f23_DIM40.dat, 1:365013|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-253_f23_DIM40.dat, 1:364256|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-254_f23_DIM40.dat, 1:364802|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-255_f23_DIM40.dat, 1:364735|3.0e+00:364461|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-256_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-257_f23_DIM40.dat, 1:364883|2.9e+00:364859|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-258_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-259_f23_DIM40.dat, 1:364996|3.1e+00:364497|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-260_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-261_f23_DIM40.dat, 1:364765|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-262_f23_DIM40.dat, 1:364865|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-263_f23_DIM40.dat, 1:364469|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-264_f23_DIM40.dat, 1:364961|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-265_f23_DIM40.dat, 1:364653|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-266_f23_DIM40.dat, 1:364428|3.1e+00:364911|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-267_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-268_f23_DIM40.dat, 1:364466|3.3e+00:364835|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-269_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-270_f23_DIM40.dat, 1:364760|2.3e+00:365365|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-271_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-272_f23_DIM40.dat, 1:364870|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-273_f23_DIM40.dat, 1:364531|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-274_f23_DIM40.dat, 1:364570|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-275_f23_DIM40.dat, 1:364932|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-276_f23_DIM40.dat, 1:364729|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-277_f23_DIM40.dat, 1:365185|3.2e+00:365066|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-278_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-279_f23_DIM40.dat, 1:364854|3.0e+00:364704|1.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-280_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-281_f23_DIM40.dat, 1:364909|3.0e+00:364706|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-282_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-283_f23_DIM40.dat, 1:365198|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-284_f23_DIM40.dat, 1:364587|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-285_f23_DIM40.dat, 1:364695|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-286_f23_DIM40.dat, 1:364833|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-287_f23_DIM40.dat, 1:365088|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-288_f23_DIM40.dat, 1:364697|3.0e+00:364881|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-289_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-290_f23_DIM40.dat, 1:364658|3.1e+00:364430|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-291_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-292_f23_DIM40.dat, 1:364835|3.5e+00:364576|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-293_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-294_f23_DIM40.dat, 1:364771|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-295_f23_DIM40.dat, 1:364893|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-296_f23_DIM40.dat, 1:364542|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-297_f23_DIM40.dat, 1:364769|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-298_f23_DIM40.dat, 1:365154|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-299_f23_DIM40.dat, 1:364279|2.4e+00:364448|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-300_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-301_f23_DIM40.dat, 1:364853|3.3e+00:364586|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-302_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-303_f23_DIM40.dat, 1:365233|2.0e+00:364677|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-304_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-305_f23_DIM40.dat, 1:364686|1.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-306_f23_DIM40.dat, 1:364427|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-307_f23_DIM40.dat, 1:364603|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-308_f23_DIM40.dat, 1:364695|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-309_f23_DIM40.dat, 1:364695|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-310_f23_DIM40.dat, 1:364629|2.5e+00:364324|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-311_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-312_f23_DIM40.dat, 1:364690|2.3e+00:364737|3.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-313_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-314_f23_DIM40.dat, 1:365440|1.5e+00:364914|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-315_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-316_f23_DIM40.dat, 1:364417|1.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-317_f23_DIM40.dat, 1:364634|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-318_f23_DIM40.dat, 1:364724|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-319_f23_DIM40.dat, 1:364666|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-320_f23_DIM40.dat, 1:365386|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-321_f23_DIM40.dat, 1:364684|2.9e+00:364948|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-322_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-323_f23_DIM40.dat, 1:364720|3.3e+00:365037|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-324_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-325_f23_DIM40.dat, 1:364899|2.7e+00:365363|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-326_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-327_f23_DIM40.dat, 1:365114|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-328_f23_DIM40.dat, 1:364891|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-329_f23_DIM40.dat, 1:364855|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-330_f23_DIM40.dat, 1:365013|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-331_f23_DIM40.dat, 1:364649|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-332_f23_DIM40.dat, 1:365087|3.3e+00:364747|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-333_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-334_f23_DIM40.dat, 1:364512|2.5e+00:364666|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-335_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-336_f23_DIM40.dat, 1:364270|2.3e+00:364877|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-337_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-338_f23_DIM40.dat, 1:364357|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-339_f23_DIM40.dat, 1:365258|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-340_f23_DIM40.dat, 1:364575|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-341_f23_DIM40.dat, 1:364744|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-342_f23_DIM40.dat, 1:364686|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-343_f23_DIM40.dat, 1:364371|1.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-344_f23_DIM40.dat, 1:364828|3.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-345_f23_DIM40.dat, 1:364974|2.2e+00:365101|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-346_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-347_f23_DIM40.dat, 1:365025|2.3e+00:365153|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-348_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-349_f23_DIM40.dat, 1:364973|1.9e+00:364637|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-350_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-351_f23_DIM40.dat, 1:364850|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-352_f23_DIM40.dat, 1:364347|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-353_f23_DIM40.dat, 1:364775|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-354_f23_DIM40.dat, 1:364828|2.0e+00:364374|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-355_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-356_f23_DIM40.dat, 1:364519|1.7e+00:364718|1.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-357_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-358_f23_DIM40.dat, 1:364705|2.1e+00:364769|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-359_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-360_f23_DIM40.dat, 1:365096|2.8e+00:365001|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-361_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-362_f23_DIM40.dat, 1:364867|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-363_f23_DIM40.dat, 1:364582|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-364_f23_DIM40.dat, 1:365193|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-365_f23_DIM40.dat, 1:364774|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-366_f23_DIM40.dat, 1:364728|2.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-367_f23_DIM40.dat, 1:364649|2.1e+00:365110|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-368_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-369_f23_DIM40.dat, 1:365434|2.7e+00:364495|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-370_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-371_f23_DIM40.dat, 1:364805|3.2e+00:364590|2.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-372_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-373_f23_DIM40.dat, 1:364749|2.5e+00:365226|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-374_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-375_f23_DIM40.dat, 1:365047|2.4e+00:365146|1.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-376_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-377_f23_DIM40.dat, 1:364864|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-378_f23_DIM40.dat, 1:364870|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-379_f23_DIM40.dat, 1:365115|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-380_f23_DIM40.dat, 1:365253|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-381_f23_DIM40.dat, 1:364356|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-382_f23_DIM40.dat, 1:364162|2.9e+00:364907|3.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-383_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-384_f23_DIM40.dat, 1:364673|1.8e+00:364794|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-385_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-386_f23_DIM40.dat, 1:364643|2.0e+00:364841|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-387_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-388_f23_DIM40.dat, 1:364887|2.1e+00:364558|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-389_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-390_f23_DIM40.dat, 1:364564|1.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-391_f23_DIM40.dat, 1:364570|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-392_f23_DIM40.dat, 1:365275|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-393_f23_DIM40.dat, 1:364418|1.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-394_f23_DIM40.dat, 1:364803|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-395_f23_DIM40.dat, 1:365150|2.9e+00:365280|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-396_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-397_f23_DIM40.dat, 1:364980|2.0e+00:364766|1.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-398_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-399_f23_DIM40.dat, 1:364604|2.9e+00:364856|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-400_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-401_f23_DIM40.dat, 1:364246|3.6e+00:364727|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-402_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-403_f23_DIM40.dat, 1:364861|2.8e+00:365129|1.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-404_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-405_f23_DIM40.dat, 1:364874|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-406_f23_DIM40.dat, 1:364550|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-407_f23_DIM40.dat, 1:364707|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-408_f23_DIM40.dat, 1:364893|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-409_f23_DIM40.dat, 1:364728|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-410_f23_DIM40.dat, 1:364783|2.5e+00:364598|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-411_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-412_f23_DIM40.dat, 1:365082|2.1e+00:364799|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-413_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-414_f23_DIM40.dat, 1:365208|3.0e+00:364979|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-415_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-416_f23_DIM40.dat, 1:365177|2.6e+00:365078|1.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-417_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-418_f23_DIM40.dat, 1:364495|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-419_f23_DIM40.dat, 1:365043|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-420_f23_DIM40.dat, 1:364784|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-421_f23_DIM40.dat, 1:364936|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-422_f23_DIM40.dat, 1:364692|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-423_f23_DIM40.dat, 1:365039|1.8e+00:365094|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-424_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-425_f23_DIM40.dat, 1:364896|2.7e+00:364150|1.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-426_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-427_f23_DIM40.dat, 1:364624|3.3e+00:364101|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-428_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-429_f23_DIM40.dat, 1:364811|2.1e+00:364873|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-430_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-431_f23_DIM40.dat, 1:364731|3.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-432_f23_DIM40.dat, 1:364448|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-433_f23_DIM40.dat, 1:365164|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-434_f23_DIM40.dat, 1:365201|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-435_f23_DIM40.dat, 1:364504|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-436_f23_DIM40.dat, 1:364653|3.0e+00:364623|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-437_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-438_f23_DIM40.dat, 1:364695|2.6e+00:364577|1.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-439_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-440_f23_DIM40.dat, 1:364770|3.3e+00:364566|3.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-441_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-442_f23_DIM40.dat, 1:364782|2.6e+00:365153|2.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-443_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-444_f23_DIM40.dat, 1:365014|4.0e+00:364641|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-445_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-446_f23_DIM40.dat, 1:364868|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-447_f23_DIM40.dat, 1:365233|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-448_f23_DIM40.dat, 1:364518|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-449_f23_DIM40.dat, 1:364839|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-450_f23_DIM40.dat, 1:364782|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-451_f23_DIM40.dat, 1:364412|2.2e+00:364902|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-452_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-453_f23_DIM40.dat, 1:365234|2.2e+00:365117|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-454_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-455_f23_DIM40.dat, 1:364333|3.0e+00:364665|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-456_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-457_f23_DIM40.dat, 1:364982|2.1e+00:364756|2.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-458_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-459_f23_DIM40.dat, 1:364682|2.6e+00:364964|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-460_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-461_f23_DIM40.dat, 1:365078|3.1e+00:364451|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-462_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-463_f23_DIM40.dat, 1:364724|1.8e+00:365023|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-464_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-465_f23_DIM40.dat, 1:364852|2.9e+00:364562|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-466_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-467_f23_DIM40.dat, 1:364591|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-468_f23_DIM40.dat, 1:364967|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-469_f23_DIM40.dat, 1:365171|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-470_f23_DIM40.dat, 1:364875|2.5e+00:364739|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-471_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-472_f23_DIM40.dat, 1:364510|2.4e+00:364597|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-473_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-474_f23_DIM40.dat, 1:364818|2.9e+00:364568|1.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-475_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-476_f23_DIM40.dat, 1:364351|3.3e+00:364931|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-477_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-478_f23_DIM40.dat, 1:364768|2.5e+00:364910|1.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-479_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-480_f23_DIM40.dat, 1:364714|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-481_f23_DIM40.dat, 1:364807|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-482_f23_DIM40.dat, 1:364824|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-483_f23_DIM40.dat, 1:364902|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-484_f23_DIM40.dat, 1:364332|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-485_f23_DIM40.dat, 1:364796|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-486_f23_DIM40.dat, 1:365159|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-487_f23_DIM40.dat, 1:364841|2.4e+00:364790|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-488_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-489_f23_DIM40.dat, 1:364864|1.5e+00:364526|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-490_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-491_f23_DIM40.dat, 1:364494|2.6e+00:364796|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-492_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-493_f23_DIM40.dat, 1:364683|2.1e+00:365023|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-494_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-495_f23_DIM40.dat, 1:364981|3.2e+00:363948|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-496_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-497_f23_DIM40.dat, 1:364521|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-498_f23_DIM40.dat, 1:364587|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-499_f23_DIM40.dat, 1:364594|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-500_f23_DIM40.dat, 1:364588|1.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-501_f23_DIM40.dat, 1:365370|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-502_f23_DIM40.dat, 1:364816|2.9e+00:364470|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-503_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-504_f23_DIM40.dat, 1:364776|3.6e+00:364980|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-505_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-506_f23_DIM40.dat, 1:364793|3.0e+00:364901|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-507_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-508_f23_DIM40.dat, 1:364772|2.9e+00:364483|1.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-509_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-510_f23_DIM40.dat, 1:364998|3.2e+00:364945|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-511_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-512_f23_DIM40.dat, 1:364749|2.1e+00:364705|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-513_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-514_f23_DIM40.dat, 1:364543|2.7e+00:365113|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-515_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-516_f23_DIM40.dat, 1:364533|3.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-517_f23_DIM40.dat, 1:364550|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-518_f23_DIM40.dat, 1:364739|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-519_f23_DIM40.dat, 1:364785|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-520_f23_DIM40.dat, 1:364517|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-521_f23_DIM40.dat, 1:364775|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-522_f23_DIM40.dat, 1:364519|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-523_f23_DIM40.dat, 1:364760|1.7e+00:364699|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-524_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-525_f23_DIM40.dat, 1:364901|2.9e+00:365032|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-526_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-527_f23_DIM40.dat, 1:365140|2.9e+00:364570|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-528_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-529_f23_DIM40.dat, 1:364897|2.1e+00:364650|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-530_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-531_f23_DIM40.dat, 1:364971|2.5e+00:364578|3.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-532_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-533_f23_DIM40.dat, 1:364972|2.7e+00:364804|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-534_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-535_f23_DIM40.dat, 1:364764|3.2e+00:364865|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-536_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-537_f23_DIM40.dat, 1:364476|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-538_f23_DIM40.dat, 1:364501|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-539_f23_DIM40.dat, 1:364749|2.8e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-540_f23_DIM40.dat, 1:364418|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-541_f23_DIM40.dat, 1:364926|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-542_f23_DIM40.dat, 1:364607|3.3e+00:364262|2.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-543_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-544_f23_DIM40.dat, 1:364762|2.9e+00:365214|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-545_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-546_f23_DIM40.dat, 1:364632|2.7e+00:364824|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-547_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-548_f23_DIM40.dat, 1:364513|2.2e+00:364755|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-549_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-550_f23_DIM40.dat, 1:364830|1.6e+00:364914|2.5e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-551_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-552_f23_DIM40.dat, 1:364853|1.9e+00:365047|2.9e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-553_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-554_f23_DIM40.dat, 1:364672|2.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-555_f23_DIM40.dat, 1:365228|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-556_f23_DIM40.dat, 1:364654|3.0e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-557_f23_DIM40.dat, 1:365302|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-558_f23_DIM40.dat, 1:364964|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-559_f23_DIM40.dat, 1:364597|2.5e+00:364453|3.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-560_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-561_f23_DIM40.dat, 1:364889|2.4e+00:365373|2.6e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-562_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-563_f23_DIM40.dat, 1:365072|2.1e+00:365240|3.1e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-564_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-565_f23_DIM40.dat, 1:365081|2.3e+00:364771|2.3e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-566_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-567_f23_DIM40.dat, 1:364587|2.9e+00:364617|2.4e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-568_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-569_f23_DIM40.dat, 1:364800|2.1e+00:364679|1.7e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-570_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-571_f23_DIM40.dat, 1:364560|3.1e+00:365012|3.2e+00
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-572_f23_DIM40.dat, 1
+funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f23/bbobexp-573_f23_DIM40.dat, 1:364387|3.1e+00:365044|2.2e+00

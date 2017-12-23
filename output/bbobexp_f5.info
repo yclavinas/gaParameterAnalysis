@@ -36,4 +36,1687 @@ funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
 data_f5/bbobexp-11_f5_DIM40.dat, 1
 funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
 % 
-data_f5/bbobexp-12_f5_DIM40.dat, 1
+data_f5/bbobexp-12_f5_DIM40.dat, 1:364487|3.1e+01:364907|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-13_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-14_f5_DIM40.dat, 1:364625|-1.0e-08:364699|2.7e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-15_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-16_f5_DIM40.dat, 1:365046|-1.0e-08:364964|2.5e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-17_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-18_f5_DIM40.dat, 1:365106|-1.0e-08:365150|2.1e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-19_f5_DIM40.dat, 1:364540|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-20_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-21_f5_DIM40.dat, 1:364467|2.4e+01:364988|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-22_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-23_f5_DIM40.dat, 1:365271|2.5e+01:364988|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-24_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-25_f5_DIM40.dat, 1:365099|-1.0e-08:364501|2.7e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-26_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-27_f5_DIM40.dat, 1:364807|-1.0e-08:364949|2.7e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-28_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-29_f5_DIM40.dat, 1:365084|-1.0e-08:365034|2.3e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-30_f5_DIM40.dat, 1:364580|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-31_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-32_f5_DIM40.dat, 1:364955|2.2e+01:364653|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-33_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-34_f5_DIM40.dat, 1:364527|2.7e+01:364640|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-35_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-36_f5_DIM40.dat, 1:364782|-1.0e-08:364711|2.7e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-37_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-38_f5_DIM40.dat, 1:364830|-1.0e-08:365071|2.7e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-39_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-40_f5_DIM40.dat, 1:365088|-1.0e-08:364758|2.7e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-41_f5_DIM40.dat, 1:365068|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-42_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-43_f5_DIM40.dat, 1:364873|2.5e+01:365119|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-44_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-45_f5_DIM40.dat, 1:364785|2.6e+01:364615|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-46_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-47_f5_DIM40.dat, 1:364704|-1.0e-08:365004|2.8e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-48_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-49_f5_DIM40.dat, 1:364910|-1.0e-08:365168|2.6e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-50_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-51_f5_DIM40.dat, 1:364848|-1.0e-08:364954|2.3e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-52_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-53_f5_DIM40.dat, 1:364829|-1.0e-08:365180|2.5e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-54_f5_DIM40.dat, 1:364628|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-55_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-56_f5_DIM40.dat, 1:364494|2.9e+01:364866|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-57_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-58_f5_DIM40.dat, 1:364891|2.5e+01:364297|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-59_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-60_f5_DIM40.dat, 1:364804|-1.0e-08:365127|2.5e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-61_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-62_f5_DIM40.dat, 1:364439|-1.0e-08:364706|2.5e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-63_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-64_f5_DIM40.dat, 1:365057|-1.0e-08:364944|2.6e+01
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-65_f5_DIM40.dat, 1:364819|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-66_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-67_f5_DIM40.dat, 1:365029|2.5e+01:365043|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-68_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-69_f5_DIM40.dat, 1:364865|2.6e+01:364823|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-70_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-71_f5_DIM40.dat, 1:364458|-1.0e-08:364519|3.1e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-72_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-73_f5_DIM40.dat, 1:364777|-1.0e-08:365052|4.4e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-74_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-75_f5_DIM40.dat, 1:364775|-1.0e-08:364320|3.9e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-76_f5_DIM40.dat, 1:365036|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-77_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-78_f5_DIM40.dat, 1:364944|4.7e-03:365114|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-79_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-80_f5_DIM40.dat, 1:364429|3.2e-03:364764|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-81_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-82_f5_DIM40.dat, 1:364499|-1.0e-08:364885|3.8e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-83_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-84_f5_DIM40.dat, 1:364802|-1.0e-08:365326|4.2e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-85_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-86_f5_DIM40.dat, 1:364758|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-87_f5_DIM40.dat, 1:365017|4.0e-03:364598|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-88_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-89_f5_DIM40.dat, 1:364570|3.5e-03:364737|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-90_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-91_f5_DIM40.dat, 1:364312|2.7e-03:364496|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-92_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-93_f5_DIM40.dat, 1:364390|-1.0e-08:364917|4.5e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-94_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-95_f5_DIM40.dat, 1:365146|-1.0e-08:364784|3.9e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-96_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-97_f5_DIM40.dat, 1:365147|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-98_f5_DIM40.dat, 1:364605|5.0e-03:364429|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-99_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-100_f5_DIM40.dat, 1:364726|3.1e-03:364997|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-101_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-102_f5_DIM40.dat, 1:364939|3.3e-03:364652|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-103_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-104_f5_DIM40.dat, 1:364777|-1.0e-08:364943|3.7e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-105_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-106_f5_DIM40.dat, 1:364787|-1.0e-08:364624|3.7e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-107_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-108_f5_DIM40.dat, 1:364868|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-109_f5_DIM40.dat, 1:364425|3.4e-03:364246|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-110_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-111_f5_DIM40.dat, 1:364440|2.6e-03:364284|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-112_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-113_f5_DIM40.dat, 1:364851|-1.0e-08:364971|4.1e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-114_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-115_f5_DIM40.dat, 1:364583|-1.0e-08:364680|2.9e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-116_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-117_f5_DIM40.dat, 1:365051|-1.0e-08:364605|3.0e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-118_f5_DIM40.dat, 1:364767|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-119_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-120_f5_DIM40.dat, 1:364720|3.8e-03:364700|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-121_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-122_f5_DIM40.dat, 1:364560|2.7e-03:364720|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-123_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-124_f5_DIM40.dat, 1:364876|-1.0e-08:364888|3.1e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-125_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-126_f5_DIM40.dat, 1:364333|-1.0e-08:365051|2.7e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-127_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-128_f5_DIM40.dat, 1:364850|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-129_f5_DIM40.dat, 1:365066|4.8e-03:364080|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-130_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-131_f5_DIM40.dat, 1:364510|2.1e-03:364577|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-132_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-133_f5_DIM40.dat, 1:364643|3.1e-03:364393|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-134_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-135_f5_DIM40.dat, 1:364962|-1.0e-08:364718|3.4e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-136_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-137_f5_DIM40.dat, 1:364939|-1.0e-08:364930|3.4e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-138_f5_DIM40.dat, 1:365047|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-139_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-140_f5_DIM40.dat, 1:365028|3.8e-03:364326|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-141_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-142_f5_DIM40.dat, 1:364993|3.1e-03:364703|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-143_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-144_f5_DIM40.dat, 1:364970|-1.0e-08:365367|2.8e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-145_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-146_f5_DIM40.dat, 1:365218|-1.0e-08:364709|3.9e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-147_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-148_f5_DIM40.dat, 1:365158|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-149_f5_DIM40.dat, 1:364418|3.1e-03:364510|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-150_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-151_f5_DIM40.dat, 1:364844|3.5e-03:364791|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-152_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-153_f5_DIM40.dat, 1:364966|3.0e-03:364306|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-154_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-155_f5_DIM40.dat, 1:364817|-1.0e-08:364726|3.3e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-156_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-157_f5_DIM40.dat, 1:365322|-1.0e-08:364953|3.3e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-158_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-159_f5_DIM40.dat, 1:364785|-1.0e-08:364719|3.0e-03
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-160_f5_DIM40.dat, 1:364569|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-161_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-162_f5_DIM40.dat, 1:364702|1.1e-06:365210|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-163_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-164_f5_DIM40.dat, 1:364644|1.1e-06:364790|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-165_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-166_f5_DIM40.dat, 1:364934|-1.0e-08:364701|9.1e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-167_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-168_f5_DIM40.dat, 1:364611|-1.0e-08:364892|1.1e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-169_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-170_f5_DIM40.dat, 1:364945|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-171_f5_DIM40.dat, 1:364441|1.3e-06:364733|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-172_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-173_f5_DIM40.dat, 1:364758|1.1e-06:364827|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-174_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-175_f5_DIM40.dat, 1:364460|1.0e-06:364754|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-176_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-177_f5_DIM40.dat, 1:365306|-1.0e-08:364320|9.7e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-178_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-179_f5_DIM40.dat, 1:365087|-1.0e-08:364807|7.7e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-180_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-181_f5_DIM40.dat, 1:364635|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-182_f5_DIM40.dat, 1:364879|7.3e-07:364593|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-183_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-184_f5_DIM40.dat, 1:364636|1.2e-06:364693|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-185_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-186_f5_DIM40.dat, 1:365008|-1.0e-08:365341|1.1e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-187_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-188_f5_DIM40.dat, 1:365145|-1.0e-08:364894|9.7e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-189_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-190_f5_DIM40.dat, 1:364761|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-191_f5_DIM40.dat, 1:364563|9.1e-07:364838|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-192_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-193_f5_DIM40.dat, 1:364847|1.0e-06:364337|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-194_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-195_f5_DIM40.dat, 1:364650|9.9e-07:364932|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-196_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-197_f5_DIM40.dat, 1:364346|-1.0e-08:364765|1.0e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-198_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-199_f5_DIM40.dat, 1:364959|-1.0e-08:364998|1.0e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-200_f5_DIM40.dat, 1:364934|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-201_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-202_f5_DIM40.dat, 1:364259|1.2e-06:365213|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-203_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-204_f5_DIM40.dat, 1:365026|1.4e-06:364965|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-205_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-206_f5_DIM40.dat, 1:364683|-1.0e-08:364571|1.0e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-207_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-208_f5_DIM40.dat, 1:364791|-1.0e-08:364502|8.6e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-209_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-210_f5_DIM40.dat, 1:364295|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-211_f5_DIM40.dat, 1:365135|1.1e-06:364034|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-212_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-213_f5_DIM40.dat, 1:364843|8.3e-07:365046|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-214_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-215_f5_DIM40.dat, 1:364683|7.8e-07:364960|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-216_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-217_f5_DIM40.dat, 1:364858|-1.0e-08:364617|6.6e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-218_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-219_f5_DIM40.dat, 1:364706|-1.0e-08:364996|1.1e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-220_f5_DIM40.dat, 1:365140|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-221_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-222_f5_DIM40.dat, 1:364902|1.2e-06:364803|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-223_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-224_f5_DIM40.dat, 1:365273|1.1e-06:364620|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-225_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-226_f5_DIM40.dat, 1:365161|-1.0e-08:364902|1.2e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-227_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-228_f5_DIM40.dat, 1:364297|-1.0e-08:364503|1.0e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-229_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-230_f5_DIM40.dat, 1:364902|-1.0e-08:365024|1.0e-06
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-231_f5_DIM40.dat, 1:364717|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-232_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-233_f5_DIM40.dat, 1:364769|1.2e-06:364623|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-234_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-235_f5_DIM40.dat, 1:365227|1.3e-06:364444|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-236_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-237_f5_DIM40.dat, 1:365204|-1.0e-08:365036|9.1e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-238_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-239_f5_DIM40.dat, 1:364798|-1.0e-08:365035|9.7e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-240_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-241_f5_DIM40.dat, 1:364373|-1.0e-08:365316|7.2e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-242_f5_DIM40.dat, 1:364784|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-243_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-244_f5_DIM40.dat, 1:364697|1.0e-06:364844|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-245_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-246_f5_DIM40.dat, 1:364900|1.1e-06:365001|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-247_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-248_f5_DIM40.dat, 1:365050|-1.0e-08:364433|9.0e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-249_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-250_f5_DIM40.dat, 1:365178|-1.0e-08:364965|7.9e-07
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-251_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-252_f5_DIM40.dat, 1:365400|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-253_f5_DIM40.dat, 1:364578|-6.9e-09:364529|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-254_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-255_f5_DIM40.dat, 1:364636|-6.5e-09:364730|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-256_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-257_f5_DIM40.dat, 1:364984|-6.4e-09:365442|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-258_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-259_f5_DIM40.dat, 1:364973|-1.0e-08:364424|-6.2e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-260_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-261_f5_DIM40.dat, 1:364589|-1.0e-08:364874|-6.6e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-262_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-263_f5_DIM40.dat, 1:364727|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-264_f5_DIM40.dat, 1:364947|-6.1e-09:365166|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-265_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-266_f5_DIM40.dat, 1:364843|-5.3e-09:364586|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-267_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-268_f5_DIM40.dat, 1:364764|-6.6e-09:364278|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-269_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-270_f5_DIM40.dat, 1:364878|-1.0e-08:364416|-7.1e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-271_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-272_f5_DIM40.dat, 1:364766|-1.0e-08:364638|-6.4e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-273_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-274_f5_DIM40.dat, 1:365074|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-275_f5_DIM40.dat, 1:364714|-6.9e-09:364434|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-276_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-277_f5_DIM40.dat, 1:364850|-6.9e-09:364743|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-278_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-279_f5_DIM40.dat, 1:364823|-5.3e-09:365042|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-280_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-281_f5_DIM40.dat, 1:364618|-1.0e-08:364375|-6.4e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-282_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-283_f5_DIM40.dat, 1:364958|-1.0e-08:365272|-6.8e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-284_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-285_f5_DIM40.dat, 1:365219|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-286_f5_DIM40.dat, 1:364784|-6.3e-09:364984|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-287_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-288_f5_DIM40.dat, 1:364681|-6.7e-09:364756|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-289_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-290_f5_DIM40.dat, 1:365274|-7.7e-09:364159|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-291_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-292_f5_DIM40.dat, 1:364550|-1.0e-08:364573|-7.0e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-293_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-294_f5_DIM40.dat, 1:364724|-1.0e-08:365136|-7.5e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-295_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-296_f5_DIM40.dat, 1:365039|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-297_f5_DIM40.dat, 1:364546|-7.2e-09:364866|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-298_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-299_f5_DIM40.dat, 1:365515|-7.3e-09:364740|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-300_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-301_f5_DIM40.dat, 1:364844|-6.8e-09:364764|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-302_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-303_f5_DIM40.dat, 1:364829|-1.0e-08:365110|-5.8e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-304_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-305_f5_DIM40.dat, 1:364892|-1.0e-08:364515|-7.1e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-306_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-307_f5_DIM40.dat, 1:365003|-1.0e-08:364762|-7.3e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-308_f5_DIM40.dat, 1:364921|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-309_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-310_f5_DIM40.dat, 1:364611|-6.1e-09:364448|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-311_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-312_f5_DIM40.dat, 1:365025|-1.0e-08:364991|-6.1e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-313_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-314_f5_DIM40.dat, 1:364630|-1.0e-08:364114|-7.1e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-315_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-316_f5_DIM40.dat, 1:364911|-1.0e-08:363986|-6.7e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-317_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-318_f5_DIM40.dat, 1:364604|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-319_f5_DIM40.dat, 1:364744|-6.3e-09:364834|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-320_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-321_f5_DIM40.dat, 1:364938|-6.6e-09:365068|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-322_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-323_f5_DIM40.dat, 1:364745|-5.3e-09:365030|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-324_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-325_f5_DIM40.dat, 1:364995|-1.0e-08:364559|-6.2e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-326_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-327_f5_DIM40.dat, 1:364290|-1.0e-08:364705|-5.6e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-328_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-329_f5_DIM40.dat, 1:365083|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-330_f5_DIM40.dat, 1:365188|-6.7e-09:364686|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-331_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-332_f5_DIM40.dat, 1:364866|-7.4e-09:364903|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-333_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-334_f5_DIM40.dat, 1:364462|-6.7e-09:364402|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-335_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-336_f5_DIM40.dat, 1:364582|-1.0e-08:364936|-5.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-337_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-338_f5_DIM40.dat, 1:364818|-1.0e-08:365229|-5.7e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-339_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-340_f5_DIM40.dat, 1:364601|-1.0e-08:364852|-6.6e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-341_f5_DIM40.dat, 1:364385|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-342_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-343_f5_DIM40.dat, 1:364801|-1.0e-08:364368|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-344_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-345_f5_DIM40.dat, 1:365166|-1.0e-08:364862|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-346_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-347_f5_DIM40.dat, 1:364516|-1.0e-08:364524|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-348_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-349_f5_DIM40.dat, 1:364356|-1.0e-08:364674|-9.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-350_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-351_f5_DIM40.dat, 1:364837|-1.0e-08:365135|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-352_f5_DIM40.dat, 1:364446|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-353_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-354_f5_DIM40.dat, 1:364546|-1.0e-08:364620|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-355_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-356_f5_DIM40.dat, 1:364918|-1.0e-08:364630|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-357_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-358_f5_DIM40.dat, 1:364663|-1.0e-08:365044|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-359_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-360_f5_DIM40.dat, 1:365083|-1.0e-08:364814|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-361_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-362_f5_DIM40.dat, 1:364973|-1.0e-08:364414|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-363_f5_DIM40.dat, 1:364894|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-364_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-365_f5_DIM40.dat, 1:364529|-1.0e-08:364589|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-366_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-367_f5_DIM40.dat, 1:364770|-1.0e-08:364992|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-368_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-369_f5_DIM40.dat, 1:364855|-1.0e-08:364500|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-370_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-371_f5_DIM40.dat, 1:365104|-1.0e-08:364870|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-372_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-373_f5_DIM40.dat, 1:364872|-1.0e-08:365129|-9.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-374_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-375_f5_DIM40.dat, 1:365370|-1.0e-08:364592|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-376_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-377_f5_DIM40.dat, 1:365025|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-378_f5_DIM40.dat, 1:364906|-1.0e-08:364404|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-379_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-380_f5_DIM40.dat, 1:364766|-9.9e-09:364865|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-381_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-382_f5_DIM40.dat, 1:364675|-1.0e-08:365070|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-383_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-384_f5_DIM40.dat, 1:364666|-1.0e-08:364874|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-385_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-386_f5_DIM40.dat, 1:364640|-1.0e-08:364731|-9.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-387_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-388_f5_DIM40.dat, 1:364461|-1.0e-08:364884|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-389_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-390_f5_DIM40.dat, 1:364908|-1.0e-08:364948|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-391_f5_DIM40.dat, 1:365304|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-392_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-393_f5_DIM40.dat, 1:364525|-1.0e-08:364704|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-394_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-395_f5_DIM40.dat, 1:364616|-9.9e-09:364496|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-396_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-397_f5_DIM40.dat, 1:364389|-1.0e-08:364708|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-398_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-399_f5_DIM40.dat, 1:364741|-1.0e-08:365022|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-400_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-401_f5_DIM40.dat, 1:365071|-1.0e-08:364593|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-402_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-403_f5_DIM40.dat, 1:364468|-1.0e-08:364819|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-404_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-405_f5_DIM40.dat, 1:364784|-1.0e-08:365098|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-406_f5_DIM40.dat, 1:364621|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-407_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-408_f5_DIM40.dat, 1:364971|-1.0e-08:364838|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-409_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-410_f5_DIM40.dat, 1:364493|-1.0e-08:364910|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-411_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-412_f5_DIM40.dat, 1:364741|-1.0e-08:364658|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-413_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-414_f5_DIM40.dat, 1:364438|-1.0e-08:364425|-9.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-415_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-416_f5_DIM40.dat, 1:365000|-1.0e-08:364655|-9.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-417_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-418_f5_DIM40.dat, 1:364984|-1.0e-08:364868|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-419_f5_DIM40.dat, 1:365223|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-420_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-421_f5_DIM40.dat, 1:364818|-1.0e-08:365043|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-422_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-423_f5_DIM40.dat, 1:364954|-1.0e-08:364806|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-424_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-425_f5_DIM40.dat, 1:364478|-1.0e-08:365173|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-426_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-427_f5_DIM40.dat, 1:364571|-1.0e-08:364705|-9.9e-09
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-428_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-429_f5_DIM40.dat, 1:364924|-1.0e-08:364791|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-430_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-431_f5_DIM40.dat, 1:364846|-1.0e-08:364524|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-432_f5_DIM40.dat, 1:364654|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-433_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-434_f5_DIM40.dat, 1:364442|-1.0e-08:364702|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-435_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-436_f5_DIM40.dat, 1:365078|-1.0e-08:365196|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-437_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-438_f5_DIM40.dat, 1:364932|-1.0e-08:364900|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-439_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-440_f5_DIM40.dat, 1:364686|-1.0e-08:365142|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-441_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-442_f5_DIM40.dat, 1:364679|-1.0e-08:364697|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-443_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-444_f5_DIM40.dat, 1:364909|-1.0e-08:364664|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-445_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-446_f5_DIM40.dat, 1:364822|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-447_f5_DIM40.dat, 1:364765|-1.0e-08:365098|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-448_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-449_f5_DIM40.dat, 1:365267|-1.0e-08:364835|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-450_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-451_f5_DIM40.dat, 1:365422|-1.0e-08:365063|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-452_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-453_f5_DIM40.dat, 1:365513|-1.0e-08:365121|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-454_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-455_f5_DIM40.dat, 1:364531|-1.0e-08:365164|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-456_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-457_f5_DIM40.dat, 1:364577|-1.0e-08:364804|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-458_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-459_f5_DIM40.dat, 1:364877|-1.0e-08:365016|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-460_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-461_f5_DIM40.dat, 1:364713|-1.0e-08:364373|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-462_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-463_f5_DIM40.dat, 1:364910|-1.0e-08:364677|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-464_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-465_f5_DIM40.dat, 1:364579|-1.0e-08:364660|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-466_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-467_f5_DIM40.dat, 1:364481|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-468_f5_DIM40.dat, 1:364433|-1.0e-08:365431|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-469_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-470_f5_DIM40.dat, 1:365120|-1.0e-08:364995|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-471_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-472_f5_DIM40.dat, 1:364771|-1.0e-08:364839|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-473_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-474_f5_DIM40.dat, 1:365349|-1.0e-08:364885|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-475_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-476_f5_DIM40.dat, 1:364828|-1.0e-08:364724|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-477_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-478_f5_DIM40.dat, 1:364900|-1.0e-08:365150|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-479_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-480_f5_DIM40.dat, 1:364896|-1.0e-08:364447|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-481_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-482_f5_DIM40.dat, 1:364767|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-483_f5_DIM40.dat, 1:364973|-1.0e-08:364786|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-484_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-485_f5_DIM40.dat, 1:365086|-1.0e-08:364880|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-486_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-487_f5_DIM40.dat, 1:364619|-1.0e-08:364739|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-488_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-489_f5_DIM40.dat, 1:365213|-1.0e-08:364755|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-490_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-491_f5_DIM40.dat, 1:364655|-1.0e-08:364515|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-492_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-493_f5_DIM40.dat, 1:364541|-1.0e-08:364751|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-494_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-495_f5_DIM40.dat, 1:364814|-1.0e-08:364470|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-496_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-497_f5_DIM40.dat, 1:364931|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-498_f5_DIM40.dat, 1:364393|-1.0e-08:364628|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-499_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-500_f5_DIM40.dat, 1:364775|-1.0e-08:365000|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-501_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-502_f5_DIM40.dat, 1:364406|-1.0e-08:364383|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-503_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-504_f5_DIM40.dat, 1:364700|-1.0e-08:364868|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-505_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-506_f5_DIM40.dat, 1:364662|-1.0e-08:364453|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-507_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-508_f5_DIM40.dat, 1:365220|-1.0e-08:364669|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-509_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-510_f5_DIM40.dat, 1:364619|-1.0e-08:364518|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-511_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-512_f5_DIM40.dat, 1:364828|-1.0e-08:364892|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-513_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-514_f5_DIM40.dat, 1:364450|-1.0e-08:364847|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-515_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-516_f5_DIM40.dat, 1:364116|-1.0e-08:364630|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-517_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-518_f5_DIM40.dat, 1:364983|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-519_f5_DIM40.dat, 1:365580|-1.0e-08:364809|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-520_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-521_f5_DIM40.dat, 1:364669|-1.0e-08:364652|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-522_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-523_f5_DIM40.dat, 1:364638|-1.0e-08:364903|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-524_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-525_f5_DIM40.dat, 1:364821|-1.0e-08:365086|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-526_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-527_f5_DIM40.dat, 1:364627|-1.0e-08:365324|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-528_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-529_f5_DIM40.dat, 1:364501|-1.0e-08:364788|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-530_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-531_f5_DIM40.dat, 1:364572|-1.0e-08:364692|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-532_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-533_f5_DIM40.dat, 1:364314|-1.0e-08:364478|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-534_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-535_f5_DIM40.dat, 1:365025|-1.0e-08:365056|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-536_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-537_f5_DIM40.dat, 1:364800|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-538_f5_DIM40.dat, 1:364659|-1.0e-08:364755|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-539_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-540_f5_DIM40.dat, 1:364839|-1.0e-08:364921|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-541_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-542_f5_DIM40.dat, 1:364832|-1.0e-08:364956|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-543_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-544_f5_DIM40.dat, 1:365151|-1.0e-08:364907|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-545_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-546_f5_DIM40.dat, 1:364953|-1.0e-08:365265|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-547_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-548_f5_DIM40.dat, 1:364425|-1.0e-08:364544|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-549_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-550_f5_DIM40.dat, 1:364664|-1.0e-08:364920|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-551_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-552_f5_DIM40.dat, 1:365033|-1.0e-08:364774|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-553_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-554_f5_DIM40.dat, 1:364422|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-555_f5_DIM40.dat, 1:365205|-1.0e-08:364278|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-556_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-557_f5_DIM40.dat, 1:364665|-1.0e-08:365076|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-558_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-559_f5_DIM40.dat, 1:364957|-1.0e-08:365117|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-560_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-561_f5_DIM40.dat, 1:364932|-1.0e-08:364833|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-562_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-563_f5_DIM40.dat, 1:364695|-1.0e-08:365017|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-564_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-565_f5_DIM40.dat, 1:364638|-1.0e-08:365046|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-566_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-567_f5_DIM40.dat, 1:364689|-1.0e-08:364922|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-568_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-569_f5_DIM40.dat, 1:364866|-1.0e-08:364654|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-570_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-571_f5_DIM40.dat, 1:364448|-1.0e-08:365529|-1.0e-08
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-572_f5_DIM40.dat, 1
+funcId = 5, DIM = 40, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f5/bbobexp-573_f5_DIM40.dat, 1:364696|-1.0e-08:364934|-1.0e-08
