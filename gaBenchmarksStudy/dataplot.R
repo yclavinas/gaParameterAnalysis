@@ -7,16 +7,16 @@ require(gridExtra)
 require(grid)
 
 # setwd
-setwd("~/Documents/estudos/earthquakemodels/result_exp_benchmark/")
+setwd("~/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy")
 
 # load data
 loadDimension <- function(dim){
   workdir <- paste0("results_UniformGaussian",dim,"D/")
   ddd <- NULL
-  for (j in 1:24) {
+  for (j in 2:24) {
     dd <- NULL
     
-    for (i in 2:25) {
+    for (i in 2:24) {
       d <- read.csv(paste0(workdir,"f",j,"_",i,".txt"),header = FALSE)
       names(d) <- c("gen","min","mean","max","sd","rep")
       k <- rep(i,nrow(d))
@@ -104,10 +104,10 @@ f_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL){
 ## getting data of only the last gen
 # ddd10 <- loadDimension(10)
 # ddd20 <- loadDimension(20)
-# ddd40 <- loadDimension(40)
-load("ddd10.RData")
-load("ddd20.RData")
-load("ddd40.RData")
+ddd40 <- loadDimension(40)
+# load("ddd10.RData")
+# load("ddd20.RData")
+# load("ddd40.RData")
 
 group <- as.data.table(ddd10)
 ddd10 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]

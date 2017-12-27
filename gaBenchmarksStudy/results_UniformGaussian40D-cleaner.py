@@ -1,27 +1,24 @@
 import os
 import re
+import numpy as np
 
-i = 0
 output_file = str()
 
-for file in os.listdir("UniformGaussian40D"):
+for file in os.listdir("uniform"):
 	if file.endswith(".txt") and file.startswith("f"):
-
-		f = open("UniformGaussian40D/"+file, "r")
-		last_file = output_file
-		output_file = re.sub ('_[0-9]*.txt', '.txt', file)
-		g = open("results_UniformGaussian40D/"+output_file, "a")
-		if i < 40:
-			for line in f:	
-				data = line.split()
-				if data[0] != 'gen':
-					if len(data) == 5:
-						data.append(i)
-						output = ', '.join(str(e) for e in data)
-						g.write(output)
-						g.write('\n')
-		if i >= 40 and last_file != output_file:
-			i = 0
-		else:
-			i += 1
+		i=-1
+		f = open("uniform/"+file, "r")
+		output_file = re.sub('_dim_[0-9]*_[a-z]*', '', file)
+		g = open("results_UniformGaussian40D/"+output_file, "w")
+		for line in f:	
+			data1 = line.split()
+			if data1[0] != 'gen':
+				if len(data1) == 5:
+					data1.append(i)
+					output = ', '.join(str(e) for e in data1)
+					g.write(output)
+					g.write('\n')
+			else:
+				i+=1
+		g.close()
 		f.close()

@@ -5,7 +5,7 @@ library(rcompanion)
 # Runs friedman test
 friedman.test(min ~ k | f, data = means10)
 friedman.test(min ~ k | f, data = means20)
-friedman.test(min ~ k | f, daa= means40)
+friedman.test(min ~ k | f, data = means40)
 friedman.test(min ~ k | f, data = pseudoData)
 
 '# Runs pairwise Sign test 
@@ -39,6 +39,13 @@ for (i in c(22,21, 17, 12, 9,8, 5, 2,1)){
 }
 
 for (i in c(22,21, 17, 12, 9,8, 5, 2,1)){
+  png(file = paste0(i,"dim_40.png"), 480, 480)
+  k_min_plot(means40, k_interval = NULL, f_interval = c(i), dim = 40)
+  dev.off()
+} 
+
+
+for (i in c(2:24)){
   png(file = paste0(i,"dim_40.png"), 480, 480)
   k_min_plot(means40, k_interval = NULL, f_interval = c(i), dim = 40)
   dev.off()
