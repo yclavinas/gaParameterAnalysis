@@ -11,7 +11,7 @@ setwd("~/Documents/estudos/gaParameterAnalysis/data")
 
 # load data
 loadDimension <- function(dim){
-  workdir <- paste0("results_UniformGaussian",dim,"D/")
+  workdir <- paste0("results_SBX",dim,"D/")
   ddd <- NULL
   for (j in 2:24) {
     dd <- NULL
@@ -26,8 +26,8 @@ loadDimension <- function(dim){
     f <- rep(j,nrow(dd))
     dd <- cbind(dd,f)
     ddd <- rbind(ddd,dd)
-   
-    }
+    
+  }
   return (ddd)
 }
 
@@ -68,8 +68,8 @@ k_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL){
     geom_smooth(alpha  = .7,method = 'lm')+
     geom_hline(yintercept = ablines[f_interval], color = "red")+
     theme(legend.position="none")
-    p10$labels$colour <- "Function"
-    p10$labels$title <- paste("Function",f_interval,"with",dim,"dimensions")
+  p10$labels$colour <- "Function"
+  p10$labels$title <- paste("Function",f_interval,"with",dim,"dimensions")
   grid.arrange(arrangeGrob(p10+theme(axis.title.y = element_blank(),axis.title.x = element_blank()),
                            nrow=1,
                            left = textGrob("Optimum Value", rot = 90),
@@ -92,8 +92,8 @@ f_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL){
   p10$labels$colour <- "Tour. size"
   p10$labels$title <- paste("Function",f_interval,dim,"dimensions")
   grid.arrange(arrangeGrob(p10+
-                            theme(axis.title.y = element_blank(),
-                                  axis.title.x = element_blank()),
+                             theme(axis.title.y = element_blank(),
+                                   axis.title.x = element_blank()),
                            nrow=1,
                            left = textGrob("Optimum Value found", rot = 90),
                            top  = textGrob(" Tournament size"),
@@ -105,10 +105,10 @@ f_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL){
 # ddd10 <- loadDimension(10)
 # ddd20 <- loadDimension(20)
 # ddd40 <- loadDimension(40)
-# save(ddd40, file = "ddd40.RData")
+save(ddd40, file = "ddd40-sbx.RData")
 # load("ddd10.RData")
 # load("ddd20.RData")
-load("ddd40.RData")
+# load("ddd40-sbx.RData")
 
 group <- as.data.table(ddd10)
 ddd10 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
