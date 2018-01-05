@@ -26,7 +26,6 @@ loadDimension <- function(dim){
     f <- rep(j,nrow(dd))
     dd <- cbind(dd,f)
     ddd <- rbind(ddd,dd)
-    
   }
   return (ddd)
 }
@@ -102,31 +101,32 @@ f_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL){
 
 # processing data
 ## getting data of only the last gen
-# ddd10 <- loadDimension(10)
-# ddd20 <- loadDimension(20)
-# ddd40 <- loadDimension(40)
-save(ddd40, file = "ddd40-sbx.RData")
+# ddd10_sbx <- loadDimension(10)
+# ddd20_sbx <- loadDimension(20)
+# save(ddd20_sbx, file = "ddd20-sbx.RData")
+# ddd40_sbx <- loadDimension(40)
+# save(ddd40_sbx, file = "ddd40-sbx.RData")
 # load("ddd10.RData")
-# load("ddd20.RData")
-# load("ddd40-sbx.RData")
+load("ddd20-sbx.RData")
+load("ddd40-sbx.RData")
 
-group <- as.data.table(ddd10)
-ddd10 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+# group <- as.data.table(ddd10)
+# ddd10 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+# 
+group_sbx <- as.data.table(ddd20_sbx)
+ddd20_sbx <- group_sbx[group_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
-group <- as.data.table(ddd20)
-ddd20 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
-
-group <- as.data.table(ddd40)
-ddd40 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+group_sbx <- as.data.table(ddd40_sbx)
+ddd40_sbx <- group_sbx[group_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 # get the means of the last gen
-means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
-means10 <- as.data.table(means10)
+# means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
+# means10 <- as.data.table(means10)
+# 
+means20_sbx <- aggregate(ddd20_sbx, list(k = ddd20_sbx$k, f = ddd20_sbx$f), mean)
+means20_sbx <- as.data.table(means20)
 
-means20 <- aggregate(ddd20, list(k = ddd20$k, f = ddd20$f), mean)
-means20 <- as.data.table(means20)
-
-means40 <- aggregate(ddd40, list(k = ddd40$k, f = ddd40$f), mean)
-means40 <- as.data.table(means40)
+means40_sbx <- aggregate(ddd40_sbx, list(k = ddd40_sbx$k, f = ddd40_sbx$f), mean)
+means40_sbx <- as.data.table(means40_sbx)
 
 

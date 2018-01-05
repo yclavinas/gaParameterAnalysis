@@ -4,12 +4,12 @@ import numpy as np
 
 output_file = str()
 
-for file in os.listdir("../data/uniform-40D-800"):
+for file in os.listdir("../data/SBX-20D-800"):
 	if file.endswith(".txt") and file.startswith("f"):
 		i=-1
-		f = open("../data/uniform-40D-800/"+file, "r")
+		f = open("../data/SBX-20D-800/"+file, "r")
 		output_file = re.sub('_dim_[0-9]*_[a-z]*', '', file)
-		g = open("../data/results_UniformGaussian40D/"+output_file, "w")
+		g = open("../data/results_SBX20D/"+output_file, "w")
 		for line in f:	
 			if i < 35:
 				data1 = line.split()
