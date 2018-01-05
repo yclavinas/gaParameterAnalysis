@@ -1,0 +1,2 @@
+"Validation Configuration ID","Configuration ","Sample Call String"
+"1","-CXPB '0.5101593611778465' -MUTPB '0.06649704688700118' -eta '1' -indp '4.356852861113203E-4' -mu '0.9497047456210321' -sigma '9.997165877001073'","../gaBenchmarksStudy/smacAnalysis/F9-smac.py -tournsize 2 -params ../gaBenchmarksStudy/smacAnalysis/gaParams.txt no_instance 0 1.7976931348623157E308 2147483647 375162 -CXPB '0.5101593611778465' -MUTPB '0.06649704688700118' -eta '1' -indp '4.356852861113203E-4' -mu '0.9497047456210321' -sigma '9.997165877001073' "

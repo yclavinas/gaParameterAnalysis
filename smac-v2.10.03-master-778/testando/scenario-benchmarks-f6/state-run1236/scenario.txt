@@ -1,0 +1,8 @@
+use-instances = false
+runObj = QUALITY
+overall_obj = MEAN
+deterministic = 0
+pcs-file = ../gaBenchmarksStudy/smacAnalysis/params-benchmarks.pcs
+algo = 	../gaBenchmarksStudy/smacAnalysis/F6-smac.py -tournsize 2 -params ../gaBenchmarksStudy/smacAnalysis/gaParams.txt  
+outdir = testando/
+wallclock-limit = 345600

@@ -1,4 +1,4 @@
-#./smac --scenario-file ../gaBenchmarksStudy/smacAnalysis/scenario-benchmarks-f1.txt --seed 1234 &
+./smac --scenario-file ../gaBenchmarksStudy/smacAnalysis/scenario-benchmarks-f1.txt --seed 1234 &
 ./smac --scenario-file ../gaBenchmarksStudy/smacAnalysis/scenario-benchmarks-f2.txt --seed 1231 &
 ./smac --scenario-file ../gaBenchmarksStudy/smacAnalysis/scenario-benchmarks-f3.txt --seed 1232 &
 ./smac --scenario-file ../gaBenchmarksStudy/smacAnalysis/scenario-benchmarks-f4.txt --seed 1233 &
