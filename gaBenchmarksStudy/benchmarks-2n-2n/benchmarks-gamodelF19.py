@@ -96,8 +96,9 @@ def main(func,
     for g in range(NGEN):
         # Select the next generation individuals
         offspring = toolbox.select(pop, len(pop))
+        
         # create offspring
-        offspring = list(toolbox.map(toolbox.clone, offspring))
+        # offspring = list(toolbox.map(toolbox.clone, offspring))
         # Apply crossover and mutation on the offspring
         for child1, child2 in zip(offspring[::2], offspring[1::2]):
             if random.random() < CXPB:
@@ -119,8 +120,8 @@ def main(func,
         best_pop = tools.selBest(pop, 1)[0]
         offspring = sorted(offspring, key=attrgetter("fitness"))
         offspring[0] = best_pop
-        random.shuffle(offspring)
-        pop[:] = offspring
+        offspring = sorted(offspring+pop, key=attrgetter("fitness"))
+        pop[:] = offspring[n:n+n]
         record = stats.compile(pop)
         logbook.record(gen=g, **record)
     return logbook
@@ -184,7 +185,7 @@ if __name__ == "__main__":
                    tournsize=tournsize,
                    ftarget=e.ftarget)
 
-    filename = ("gaBenchmarksStudy/SBX/f" +
+    filename = ("gaBenchmarksStudy/2n-2n/f" +
                 str(f_name) +
                 "_dim_" +
                 str(dim) +
