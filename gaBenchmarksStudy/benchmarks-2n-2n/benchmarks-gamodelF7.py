@@ -184,16 +184,19 @@ if __name__ == "__main__":
                    n_aval=params['n_aval'],
                    tournsize=tournsize,
                    ftarget=e.ftarget)
-
+   
     filename = ("gaBenchmarksStudy/2n-2n/f" +
+
                 str(f_name) +
                 "_dim_" +
                 str(dim) +
                 "_tournsize_" +
                 str(tournsize) +
                 ".txt")
-
+    
     with open(filename, "a") as myfile:
         myfile.write(str(logbook))
         myfile.write(str('\n'))
     myfile.close()
+
+

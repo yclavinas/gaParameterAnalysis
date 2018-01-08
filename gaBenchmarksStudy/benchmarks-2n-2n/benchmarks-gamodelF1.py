@@ -1,4 +1,4 @@
-a#!/usr/bin/python
+#!/usr/bin/python
 #    This file is part of DEAP.
 #
 #    DEAP is free software: you can redistribute it and/or modify
