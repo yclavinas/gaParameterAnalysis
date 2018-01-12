@@ -1,0 +1,30 @@
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp_f20_DIM10.dat, 1:364816|4.5e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-01_f20_DIM10.dat, 1:364457|5.8e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-02_f20_DIM10.dat, 1:364665|3.6e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-03_f20_DIM10.dat, 1:364906|2.4e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-04_f20_DIM10.dat, 1:364684|2.4e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-05_f20_DIM10.dat, 1:365371|2.4e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-06_f20_DIM10.dat, 1:364816|8.9e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-07_f20_DIM10.dat, 1:364874|6.1e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-08_f20_DIM10.dat, 1:364705|6.6e-01
+funcId = 20, DIM = 10, Precision = 1.000e-08, algId = 'not-specified'
+% 
+data_f20/bbobexp-09_f20_DIM10.dat, 1
