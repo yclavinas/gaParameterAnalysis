@@ -13,7 +13,7 @@ setwd("~/Documents/estudos/gaParameterAnalysis/data")
 loadDimension <- function(dim){
   workdir <- paste0("results-2n-2n-sbx-",dim,"D/")
   ddd <- NULL
-  for (j in 2:24) {
+  for (j in 1:24) {
     dd <- NULL
     
     for (i in 2:24) {

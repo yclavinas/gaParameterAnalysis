@@ -4,13 +4,13 @@ import numpy as np
 
 output_file = str()
 
-for file in os.listdir("../data/uniform-10D-800"):
+for file in os.listdir("../data/SBX-10D-800"):
 	if file.endswith(".txt") and file.startswith("f"):
 		i=-1
-		f = open("../data/uniform-10D-800/"+file, "r")
+		f = open("../data/SBX-10D-800/"+file, "r")
 		output_file = re.sub('_dim_[0-9]*_[a-z]*', '', file)
-		g = open("../data/results_UniformGaussian10D/"+output_file, "w")
-		for line in f:
+		g = open("../data/results_SBX10D/"+output_file, "w")
+		for line in f:	
 			if i < 40:
 				data1 = line.split()
 				if data1[0] != 'gen':
