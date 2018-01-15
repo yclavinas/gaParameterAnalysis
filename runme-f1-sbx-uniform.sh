@@ -1,4 +1,4 @@
-for i in {2..2} 
+for i in {2..25} 
 do
 	# repetition loop
 	for j in {0..40} 
