@@ -11,7 +11,7 @@ for file in os.listdir("../data/SBX-40D-800"):
 		output_file = re.sub('_dim_[0-9]*_[a-z]*', '', file)
 		g = open("../data/results_SBX40D/"+output_file, "w")
 		for line in f:	
-			if i < 35:
+			if i < 40:
 				data1 = line.split()
 				if data1[0] != 'gen':
 					if len(data1) == 5:
