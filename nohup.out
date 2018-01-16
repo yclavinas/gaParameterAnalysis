@@ -2960,3 +2960,74 @@ Exception IOError: IOError(2, 'No such file or directory') in <bound method Logg
 /home/yclavinas/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-2n-2n/fgeneric.py:353: UserWarning: The index file output/bbobexp_f13.info is not found. Data will be appended to an empty file. Previously obtained data may be missing.
   'obtained data may be missing.' % self.indexfile)
 Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x17a6f10>> ignored
+Traceback (most recent call last):
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 185, in <module>
+    ftarget=e.ftarget)
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 113, in main
+    fitnesses = list(toolbox.map(toolbox.evaluate, invalid_ind))
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 41, in wrapper
+    return func(*args, **kargs),
+  File "/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py", line 318, in evalfun
+    f = open(self.datafile, 'a')
+IOError: [Errno 2] No such file or directory: 'output/data_f2/bbobexp-191_f2_DIM10.tdat'
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:353: UserWarning: The index file output/bbobexp_f2.info is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.indexfile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x1076bf250>> ignored
+Traceback (most recent call last):
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 185, in <module>
+    ftarget=e.ftarget)
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 113, in main
+    fitnesses = list(toolbox.map(toolbox.evaluate, invalid_ind))
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 41, in wrapper
+    return func(*args, **kargs),
+  File "/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py", line 318, in evalfun
+    f = open(self.datafile, 'a')
+IOError: [Errno 2] No such file or directory: 'output/data_f2/bbobexp-189_f2_DIM10.tdat'
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:353: UserWarning: The index file output/bbobexp_f2.info is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.indexfile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x109580250>> ignored
+Traceback (most recent call last):
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 185, in <module>
+    ftarget=e.ftarget)
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 113, in main
+    fitnesses = list(toolbox.map(toolbox.evaluate, invalid_ind))
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 41, in wrapper
+    return func(*args, **kargs),
+  File "/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py", line 318, in evalfun
+    f = open(self.datafile, 'a')
+IOError: [Errno 2] No such file or directory: 'output/data_f2/bbobexp-190_f2_DIM10.tdat'
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:353: UserWarning: The index file output/bbobexp_f2.info is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.indexfile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x10ee14250>> ignored
+Traceback (most recent call last):
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 185, in <module>
+    ftarget=e.ftarget)
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 113, in main
+    fitnesses = list(toolbox.map(toolbox.evaluate, invalid_ind))
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 41, in wrapper
+    return func(*args, **kargs),
+  File "/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py", line 318, in evalfun
+    f = open(self.datafile, 'a')
+IOError: [Errno 2] No such file or directory: 'output/data_f2/bbobexp-02_f2_DIM10.tdat'
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:353: UserWarning: The index file output/bbobexp_f2.info is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.indexfile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x107ea4250>> ignored
+Traceback (most recent call last):
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 185, in <module>
+    ftarget=e.ftarget)
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 113, in main
+    fitnesses = list(toolbox.map(toolbox.evaluate, invalid_ind))
+  File "gaBenchmarksStudy/benchmarks-uniform/benchmarks-gamodelF2.py", line 41, in wrapper
+    return func(*args, **kargs),
+  File "/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py", line 318, in evalfun
+    f = open(self.datafile, 'a')
+IOError: [Errno 2] No such file or directory: 'output/data_f2/bbobexp-03_f2_DIM10.tdat'
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:353: UserWarning: The index file output/bbobexp_f2.info is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.indexfile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x103b4e250>> ignored
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:344: UserWarning: The data file output/data_f2/bbobexp-28_f2_DIM10.tdat is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.datafile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x10ea7f250>> ignored
+/Users/yurilavinas/Documents/estudos/gaParameterAnalysis/gaBenchmarksStudy/benchmarks-uniform/fgeneric.py:344: UserWarning: The data file output/data_f2/bbobexp-27_f2_DIM10.tdat is not found. Data will be appended to an empty file. Previously obtained data may be missing.
+  'obtained data may be missing.' % self.datafile)
+Exception IOError: IOError(2, 'No such file or directory') in <bound method LoggingFunction.__del__ of <fgeneric.LoggingFunction object at 0x10c20d250>> ignored
