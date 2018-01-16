@@ -32,28 +32,31 @@ loadDimension <- function(dim){
 
 # processing data
 ## getting data of only the last gen
-# ddd10_sbx <- loadDimension(10)
+ddd10_sbx <- loadDimension(10)
 # ddd20_sbx <- loadDimension(20)
-# save(ddd20_sbx, file = "ddd20-sbx.RData")
 # ddd40_sbx <- loadDimension(40)
-# save(ddd40_sbx, file = "ddd40-sbx.RData")
-# load("ddd10.RData")
-load("ddd20-sbx.RData")
-load("ddd40-sbx.RData")
-
-# group <- as.data.table(ddd10)
-# ddd10 <- group[group[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 # 
-group_sbx <- as.data.table(ddd20_sbx)
-ddd20_sbx <- group_sbx[group_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+# load("ddd10.RData")
 
-group_sbx <- as.data.table(ddd40_sbx)
-ddd40_sbx <- group_sbx[group_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+
+# ddd10_sbx <- as.data.table(ddd10_sbx)
+# ddd10_sbx <- ddd10_sbx[ddd10_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+
+# ddd20_sbx <- as.data.table(ddd20_sbx)
+# save(ddd20_sbx, file = "ddd20-sbx.RData")
+load("ddd20-sbx.RData")
+ddd20_sbx <- ddd20_sbx[ddd20_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+
+# ddd40_sbx <- as.data.table(ddd40_sbx)
+# save(ddd40_sbx, file = "ddd40-sbx.RData")
+load("ddd40-sbx.RData")
+ddd40_sbx <- ddd40_sbx[ddd40_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 # get the means of the last gen
 # means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
 # means10 <- as.data.table(means10)
-# 
+
+
 means20_sbx <- aggregate(ddd20_sbx, list(k = ddd20_sbx$k, f = ddd20_sbx$f), mean)
 means20_sbx <- as.data.table(means20)
 
