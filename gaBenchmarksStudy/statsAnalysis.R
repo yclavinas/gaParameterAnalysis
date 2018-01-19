@@ -11,6 +11,7 @@ library(rcompanion)
 f_interval=c(2,5,6,7,8,9,10,11,12,13,14)
 unimodal20 <- means20[f %in% c(f_interval)]
 unimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
+unimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 unimodal40 <- means40[f %in% c(f_interval)]
 unimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
 unimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
@@ -19,6 +20,7 @@ unimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
 f_interval=c(3,4,15,16,17,18,19,20,21,22,23,24)
 multimodal20 <- means20[f %in% c(f_interval)]
 multimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
+multimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 multimodal40 <- means40[f %in% c(f_interval)]
 multimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
 multimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
@@ -47,10 +49,16 @@ friedman.test(min ~ k | f, data = multimodal40_sbx)
 friedman.test(min ~ k | f, data = means40_sbx)
 # friedman.test(min ~ k | f, data = pseudoData)
 
+## 2n2n - 20D
+friedman.test(min ~ k | f, data = unimodal20_2n2n)
+friedman.test(min ~ k | f, data = multimodal20_2n2n)
+friedman.test(min ~ k | f, data = means20_2n2n)
+
 ## 2n2n - 40D
 friedman.test(min ~ k | f, data = unimodal40_2n2n)
 friedman.test(min ~ k | f, data = multimodal40_2n2n)
 friedman.test(min ~ k | f, data = means40_2n2n)
+
 
 '# Runs pairwise Sign test 
 # (NOT NECESSARY IF Friedman test does not reject null hypothesis)'

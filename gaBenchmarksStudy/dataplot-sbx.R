@@ -32,7 +32,7 @@ loadDimension <- function(dim){
 
 # processing data
 ## getting data of only the last gen
-ddd10_sbx <- loadDimension(10)
+# ddd10_sbx <- loadDimension(10)
 # ddd20_sbx <- loadDimension(20)
 # ddd40_sbx <- loadDimension(40)
 # 
