@@ -13,7 +13,7 @@ setwd("~/Documents/estudos/gaParameterAnalysis/data")
 loadDimension <- function(dim){
   workdir <- paste0("results_UniformGaussian",dim,"D/")
   ddd <- NULL
-  for (j in 2:24) {
+  for (j in 1:24) {
     dd <- NULL
     
     for (i in 2:24) {
@@ -35,14 +35,15 @@ loadDimension <- function(dim){
 
 # processing data
 ## getting data of only the last gen
-ddd10 <- loadDimension(10)
+# ddd10 <- loadDimension(10)
 # ddd20 <- loadDimension(20)
 # ddd40 <- loadDimension(40)
 
 # ddd10 <- as.data.table(ddd10)
 # ddd10 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 # save(ddd10, file = "ddd10.RData")
-# load("ddd10.RData")
+load("ddd10.RData")
+ddd20 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 # ddd20 <- as.data.table(ddd20)
 # save(ddd20, file = "ddd20.RData")
@@ -58,8 +59,8 @@ ddd40 <- ddd40[ddd40[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 
 # get the means of the last gen
-# means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
-# means10 <- as.data.table(means10)
+means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
+means10 <- as.data.table(means10)
 # 
 means20 <- aggregate(ddd20, list(k = ddd20$k, f = ddd20$f), mean)
 means20 <- as.data.table(means20)

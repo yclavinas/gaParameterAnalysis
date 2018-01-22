@@ -35,12 +35,12 @@ loadDimension <- function(dim){
 ## getting data of only the last gen
 # ddd10_2n2n <- loadDimension(10)
 # ddd20_2n2n <- loadDimension(20)
-ddd40_2n2n <- loadDimension(40)
+# ddd40_2n2n <- loadDimension(40)
 
 # ddd10_2n2n <- as.data.table(ddd10_2n2n)
 # save(ddd10_2n2n, file = "ddd10-2n2n.RData")
-# load("ddd10-2n2n.RData")
-# ddd10_2n2n <- ddd10_2n2n[ddd10_2n2n[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+load("ddd10-2n2n.RData")
+ddd10_2n2n <- ddd10_2n2n[ddd10_2n2n[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 # 
 # ddd20_2n2n <- as.data.table(ddd20_2n2n)
 # save(ddd20_2n2n, file = "ddd20-2n2n.RData")
@@ -53,9 +53,9 @@ load("ddd40_2n2n.RData")
 ddd40_2n2n <- ddd40_2n2n[ddd40_2n2n[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 # get the means of the last gen
-# means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
-# means10 <- as.data.table(means10)
-# 
+means10_2n2n <- aggregate(ddd10_2n2n, list(k = ddd10_2n2n$k, f = ddd10_2n2n$f), mean)
+means10_2n2n <- as.data.table(means10_2n2n)
+ 
 means20_2n2n <- aggregate(ddd20_2n2n, list(k = ddd20_2n2n$k, f = ddd20_2n2n$f), mean)
 means20_2n2n <- as.data.table(means20_2n2n)
 

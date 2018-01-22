@@ -49,6 +49,11 @@ friedman.test(min ~ k | f, data = multimodal40_sbx)
 friedman.test(min ~ k | f, data = means40_sbx)
 # friedman.test(min ~ k | f, data = pseudoData)
 
+## 2n2n - 10D
+friedman.test(min ~ k | f, data = unimodal10_2n2n)
+friedman.test(min ~ k | f, data = multimodal10_2n2n)
+friedman.test(min ~ k | f, data = means10_2n2n)
+
 ## 2n2n - 20D
 friedman.test(min ~ k | f, data = unimodal20_2n2n)
 friedman.test(min ~ k | f, data = multimodal20_2n2n)
