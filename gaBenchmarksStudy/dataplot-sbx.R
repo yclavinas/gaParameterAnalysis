@@ -58,7 +58,7 @@ ddd40_sbx <- ddd40_sbx[ddd40_sbx[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 
 means20_sbx <- aggregate(ddd20_sbx, list(k = ddd20_sbx$k, f = ddd20_sbx$f), mean)
-means20_sbx <- as.data.table(means20)
+means20_sbx <- as.data.table(means20_sbx)
 
 means40_sbx <- aggregate(ddd40_sbx, list(k = ddd40_sbx$k, f = ddd40_sbx$f), mean)
 means40_sbx <- as.data.table(means40_sbx)

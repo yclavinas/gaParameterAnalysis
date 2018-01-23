@@ -42,8 +42,8 @@ loadDimension <- function(dim){
 # ddd10 <- as.data.table(ddd10)
 # ddd10 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 # save(ddd10, file = "ddd10.RData")
-load("ddd10.RData")
-ddd20 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
+# load("ddd10.RData")
+# ddd10 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 # ddd20 <- as.data.table(ddd20)
 # save(ddd20, file = "ddd20.RData")
@@ -59,9 +59,9 @@ ddd40 <- ddd40[ddd40[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 
 # get the means of the last gen
-means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
-means10 <- as.data.table(means10)
-# 
+# means10 <- aggregate(ddd10, list(k = ddd10$k, f = ddd10$f), mean)
+# means10 <- as.data.table(means10)
+
 means20 <- aggregate(ddd20, list(k = ddd20$k, f = ddd20$f), mean)
 means20 <- as.data.table(means20)
 

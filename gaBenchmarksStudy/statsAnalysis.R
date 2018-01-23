@@ -9,21 +9,30 @@ library(rcompanion)
 
 #unimodal data
 f_interval=c(2,5,6,7,8,9,10,11,12,13,14)
+##uniform
 unimodal20 <- means20[f %in% c(f_interval)]
-unimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
-unimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 unimodal40 <- means40[f %in% c(f_interval)]
+##sbx
+unimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 unimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
+##2n2n
+unimodal10_2n2n <- means10_2n2n[f %in% c(f_interval)]
+unimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 unimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
 
 #multimodalF3, F4, F15, F16, F17, F18, F19, F20, F21, F22, F23, F24
 f_interval=c(3,4,15,16,17,18,19,20,21,22,23,24)
+##uniform
 multimodal20 <- means20[f %in% c(f_interval)]
-multimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
-multimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 multimodal40 <- means40[f %in% c(f_interval)]
+##sbx
+multimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 multimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
+##2n2n
+multimodal10_2n2n <- means10_2n2n[f %in% c(f_interval)]
+multimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 multimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
+
 
 # Runs friedman test
 # friedman.test(min ~ k | f, data = means10)

@@ -49,7 +49,7 @@ ddd20_2n2n <- ddd20_2n2n[ddd20_2n2n[, .I[gen == max(gen)], by=list(rep, k, f)]$V
 
 # ddd40_2n2n <- as.data.table(ddd40_2n2n)
 # save(ddd40_2n2n, file = "ddd40-2n2n.RData")
-load("ddd40_2n2n.RData")
+load("ddd40-2n2n.RData")
 ddd40_2n2n <- ddd40_2n2n[ddd40_2n2n[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 
 # get the means of the last gen
