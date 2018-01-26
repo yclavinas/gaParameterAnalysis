@@ -8,23 +8,32 @@ setwd("~/Documents/estudos/gaParameterAnalysis/data/")
 
 #unimodal data
 f_interval=c(2,5,6,7,8,9,10,11,12,13,14)
+##uniform
+unimodal10 <- means10[f %in% c(f_interval)]
 unimodal20 <- means20[f %in% c(f_interval)]
-unimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 unimodal40 <- means40[f %in% c(f_interval)]
+##sbx
+unimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 unimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
+##2n2n
 unimodal10_2n2n <- means10_2n2n[f %in% c(f_interval)]
 unimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 unimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
 
 #multimodalF3, F4, F15, F16, F17, F18, F19, F20, F21, F22, F23, F24
 f_interval=c(3,4,15,16,17,18,19,20,21,22,23,24)
+##uniform
+multimodal10 <- means10[f %in% c(f_interval)]
 multimodal20 <- means20[f %in% c(f_interval)]
-multimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 multimodal40 <- means40[f %in% c(f_interval)]
+##sbx
+multimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 multimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
+##2n2n
 multimodal10_2n2n <- means10_2n2n[f %in% c(f_interval)]
 multimodal20_2n2n <- means20_2n2n[f %in% c(f_interval)]
 multimodal40_2n2n <- means40_2n2n[f %in% c(f_interval)]
+
 
 
 names = c("SphereFunction ", "Ellipsoidal Function", "Rastrigin Function",
@@ -90,79 +99,67 @@ k_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL, a
 
 #plot data
 
-## Uniform - 20D
-# for (i in c(2:24)){
-#   png(file = paste0("../graphs/f",  i,"_dim_20.png"), 480, 480)
-#   k_min_plot(means20, k_interval = NULL, f_interval = c(i), dim = 40)
-#   dev.off()
-# } 
+## Uniform
 
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/uniform-20D/unimodal_uniform_",  i,"_dim_20.png"))
+  pdf(file = paste0("../graphs/uniform-10D/unimodal_uniform_",  i,"_dim_10.pdf"))
+  k_min_plot(unimodal10, f_interval = c(i), dim = 10, algo = 'Uniform')
+  dev.off()
+}
+
+for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
+  pdf(file = paste0("../graphs/uniform-10D/multimodal_uniform_",  i,"_dim_10.pdf"))
+  k_min_plot(multimodal10, f_interval = c(i), dim = 10, algo = 'Uniform')
+  dev.off()
+}
+
+for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
+  pdf(file = paste0("../graphs/uniform-20D/unimodal_uniform_",  i,"_dim_20.pdf"))
   k_min_plot(unimodal20, f_interval = c(i), dim = 20, algo = 'Uniform')
   dev.off()
 } 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/uniform-20D/multimodal_uniform_",  i,"_dim_20.png"))
+  pdf(file = paste0("../graphs/uniform-20D/multimodal_uniform_",  i,"_dim_20.pdf"))
   k_min_plot(multimodal20, f_interval = c(i), dim = 20, algo = 'Uniform')
   dev.off()
 }
 
-## Uniform - 40D
-# for (i in c(2:24)){
-#   png(file = paste0("../graphs/f",  i,"_dim_40.png"), 480, 480)
-#   k_min_plot(means40, k_interval = NULL, f_interval = c(i), dim = 40)
-#   dev.off()
-# } 
 
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/uniform-40D/unimodal_uniform_",  i,"_dim_40.png"))
+  pdf(file = paste0("../graphs/uniform-40D/unimodal_uniform_",  i,"_dim_40.pdf"))
   k_min_plot(unimodal40, f_interval = c(i), dim = 40, algo = 'Uniform')
   dev.off()
 } 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/uniform-40D/multimodal_uniform_",  i,"_dim_40.png"))
+  pdf(file = paste0("../graphs/uniform-40D/multimodal_uniform_",  i,"_dim_40.pdf"))
   k_min_plot(multimodal40, f_interval = c(i), dim = 40, algo = 'Uniform')
   dev.off()
 } 
 
-## SBX - 20D
-# for (i in c(2:24)){
-#   png(file = paste0("../graphs/f_sbx_",  i,"_dim_20.png"), 480, 480)
-#   k_min_plot(means20_sbx, k_interval = NULL, f_interval = c(i), dim = 40)
-#   dev.off()
-# } 
+## SBX
 
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/SBX-20D/unimodal_sbx_",  i,"_dim_20.png"))
+  pdf(file = paste0("../graphs/SBX-20D/unimodal_sbx_",  i,"_dim_20.pdf"))
   k_min_plot(unimodal20_sbx, f_interval = c(i), dim = 20, algo = 'SBX')
   dev.off()
 } 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/SBX-20D/multimodal_sbx_",  i,"_dim_20.png"))
+  pdf(file = paste0("../graphs/SBX-20D/multimodal_sbx_",  i,"_dim_20.pdf"))
   k_min_plot(multimodal20_sbx, f_interval = c(i), dim = 20, algo = 'SBX')
   dev.off()
 } 
 
-## SBX - 40D
-
-# for (i in c(2:24)){
-#   png(file = paste0("../graphs/f_sbx_",  i,"_dim_40.png"), 480, 480)
-#   k_min_plot(means40_sbx, k_interval = NULL, f_interval = c(i), dim = 40)
-#   dev.off()
-# } 
-
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/SBX-40D/unimodal_sbx_",  i,"_dim_40.png"))
+  pdf(file = paste0("../graphs/SBX-40D/unimodal_sbx_",  i,"_dim_40.pdf"))
   k_min_plot(unimodal40_sbx, f_interval = c(i), dim = 40, algo = 'SBX')
   dev.off()
 } 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/SBX-40D/multimodal_sbx_",  i,"_dim_40.png"))
+  pdf(file = paste0("../graphs/SBX-40D/multimodal_sbx_",  i,"_dim_40.pdf"))
   k_min_plot(multimodal40_sbx, f_interval = c(i), dim = 40, algo = 'SBX')
   dev.off()
 } 
@@ -170,14 +167,14 @@ for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
 
 ## 2n2n - 10D
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/2n2n-10D/unimodal_2n2n_",  i,"_dim_10.png"))
+  pdf(file = paste0("../graphs/2n2n-10D/unimodal_2n2n_",  i,"_dim_10.pdf"))
   k_min_plot(unimodal10_2n2n, f_interval = c(i), dim = 10, algo = '2n2n')
   dev.off()
 } 
 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/2n2n-10D/multimodal_2n2n_",  i,"_dim_10.png"))
+  pdf(file = paste0("../graphs/2n2n-10D/multimodal_2n2n_",  i,"_dim_10.pdf"))
   k_min_plot(multimodal10_2n2n, f_interval = c(i), dim = 10, algo = 'SBX')
   dev.off()
 } 
@@ -185,14 +182,14 @@ for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
 
 ## 2n2n - 20D
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/2n2n-20D/unimodal_2n2n_",  i,"_dim_20.png"))
+  pdf(file = paste0("../graphs/2n2n-20D/unimodal_2n2n_",  i,"_dim_20.pdf"))
   k_min_plot(unimodal20_2n2n, f_interval = c(i), dim = 20, algo = '2n2n')
   dev.off()
 } 
 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/2n2n-20D/multimodal_2n2n_",  i,"_dim_20.png"))
+  pdf(file = paste0("../graphs/2n2n-20D/multimodal_2n2n_",  i,"_dim_20.pdf"))
   k_min_plot(multimodal20_2n2n, f_interval = c(i), dim = 20, algo = 'SBX')
   dev.off()
 } 
@@ -200,14 +197,14 @@ for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
 
 ## 2n2n - 40D
 for (i in c(2,5,6,7,8,9,10,11,12,13,14)){
-  png(file = paste0("../graphs/2n2n-40D/unimodal_2n2n_",  i,"_dim_40.png"))
+  pdf(file = paste0("../graphs/2n2n-40D/unimodal_2n2n_",  i,"_dim_40.pdf"))
   k_min_plot(unimodal40_2n2n, f_interval = c(i), dim = 40, algo = '2n2n')
   dev.off()
 } 
 
 
 for (i in c(3,4,15,16,17,18,19,20,21,22,23,24)){
-  png(file = paste0("../graphs/2n2n-40D/multimodal_2n2n_",  i,"_dim_40.png"))
+  pdf(file = paste0("../graphs/2n2n-40D/multimodal_2n2n_",  i,"_dim_40.pdf"))
   k_min_plot(multimodal40_2n2n, f_interval = c(i), dim = 40, algo = 'SBX')
   dev.off()
 } 

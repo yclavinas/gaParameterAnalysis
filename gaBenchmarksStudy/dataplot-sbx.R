@@ -35,8 +35,6 @@ loadDimension <- function(dim){
 # ddd10_sbx <- loadDimension(10)
 # ddd20_sbx <- loadDimension(20)
 # ddd40_sbx <- loadDimension(40)
-# 
-# load("ddd10.RData")
 
 
 # ddd10_sbx <- as.data.table(ddd10_sbx)

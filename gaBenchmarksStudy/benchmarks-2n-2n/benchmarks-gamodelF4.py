@@ -98,7 +98,7 @@ def main(func,
         offspring = toolbox.select(pop, len(pop))
         
         # create offspring
-        # offspring = list(toolbox.map(toolbox.clone, offspring))
+        offspring = list(toolbox.map(toolbox.clone, offspring))
         # Apply crossover and mutation on the offspring
         for child1, child2 in zip(offspring[::2], offspring[1::2]):
             if random.random() < CXPB:

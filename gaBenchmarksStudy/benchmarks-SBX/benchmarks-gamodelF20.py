@@ -56,9 +56,9 @@ def main(func,
     toolbox.register(
         "mutate",
         tools.mutGaussian,
-        mu=0,
-        sigma=1,
-        indpb=0.1
+        mu=0.56,
+        sigma=2.68,
+        indpb=0.69
     )
     # mutShuffleIndexes
     stats = tools.Statistics(key=lambda ind: ind.fitness.values)
@@ -75,7 +75,7 @@ def main(func,
     toolbox.register("evaluate", func)
     toolbox.decorate("evaluate", tupleize)
     toolbox.register("attr_float", random.uniform, -5, 5)
-    toolbox.register("mate", tools.cxSimulatedBinaryBounded, eta = 0, low= -5, up = 5)
+    toolbox.register("mate", tools.cxSimulatedBinaryBounded, eta = 1, low= -5, up = 5)
     toolbox.register("individual", tools.initRepeat, creator.Individual,
                      toolbox.attr_float, dim)
     toolbox.register("population", tools.initRepeat, list, toolbox.individual)
