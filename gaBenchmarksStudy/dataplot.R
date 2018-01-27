@@ -40,7 +40,6 @@ loadDimension <- function(dim){
 # ddd40 <- loadDimension(40)
 
 # ddd10 <- as.data.table(ddd10)
-# ddd10 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]
 # save(ddd10, file = "ddd10.RData")
 load("ddd10.RData")
 ddd10 <- ddd10[ddd10[, .I[gen == max(gen)], by=list(rep, k, f)]$V1]

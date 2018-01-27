@@ -72,7 +72,7 @@ ablines = c(1:24)
 for (i in 1:24){
   workdir <- paste0("targets/")
   data <- read.csv(paste0(workdir,"target_f",i,"_dim_40_tournsize_2.txt"),header = FALSE)
-  ablines[i] = tail(data)$V1
+  ablines[i] = round(tail(data)$V1, 2)
 }
 
 #function to plot k versus min value given an interval (function goes in graph)
@@ -88,7 +88,7 @@ k_min_plot <- function(data, k_interval = NULL, f_interval = NULL, dim = NULL, a
     geom_hline(yintercept = ablines[f_interval], color = "red")+
     theme(legend.position="none")
   p10$labels$colour <- "Function"
-  p10$labels$title <- paste(names[f_interval],"with",dim,"dimensions - ", algo)
+  p10$labels$title <- paste(names[f_interval],"with",dim,"dimensions - ", algo, ',opt. val.:', ablines[f_interval])
   grid.arrange(arrangeGrob(p10+theme(axis.title.y = element_blank(),axis.title.x = element_blank()),
                            nrow=1,
                            left = textGrob("Optimum Value", rot = 90, gp=gpar(fontsize=28)),

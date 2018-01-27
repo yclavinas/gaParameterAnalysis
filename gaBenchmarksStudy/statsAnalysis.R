@@ -9,6 +9,7 @@ library(rcompanion)
 
 #unimodal data
 f_interval=c(2,5,6,7,8,9,10,11,12,13,14)
+# f_interval=c(2,5,6,8,9,10,11,12,13,14)
 ##uniform
 unimodal10 <- means10[f %in% c(f_interval)]
 unimodal20 <- means20[f %in% c(f_interval)]

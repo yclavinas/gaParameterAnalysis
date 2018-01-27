@@ -56,9 +56,9 @@ def main(func,
     toolbox.register(
         "mutate",
         tools.mutGaussian,
-        mu=0.56,
-        sigma=2.68,
-        indpb=0.69
+        mu=0,
+        sigma=1,
+        indpb=0.1
     )
     # mutShuffleIndexes
     stats = tools.Statistics(key=lambda ind: ind.fitness.values)
