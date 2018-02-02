@@ -1,7 +1,7 @@
-for i in {24..25} 
+for i in {2..25} 
 do
 	# repetition loop
-	for j in {0..9} 
+	for j in {0..19} 
 	do
 		nohup python2.7 gaBenchmarksStudy/benchmarks-2n-2n/benchmarks-gamodelF1.py -tournsize "$i" -params 'gaBenchmarksStudy/benchmarks-2n-2n/gaParams.txt' &
 		nohup python2.7 gaBenchmarksStudy/benchmarks-2n-2n/benchmarks-gamodelF2.py -tournsize "$i" -params 'gaBenchmarksStudy/benchmarks-2n-2n/gaParams.txt' & 
