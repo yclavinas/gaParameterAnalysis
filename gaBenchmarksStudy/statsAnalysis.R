@@ -9,12 +9,12 @@ library(rcompanion)
 
 #unimodal data
 f_interval=c(2,5,6,7,8,9,10,11,12,13,14)
-# f_interval=c(2,5,6,8,9,10,11,12,13,14)
 ##uniform
 unimodal10 <- means10[f %in% c(f_interval)]
 unimodal20 <- means20[f %in% c(f_interval)]
 unimodal40 <- means40[f %in% c(f_interval)]
 ##sbx
+unimodal10_sbx <- means10_sbx[f %in% c(f_interval)]
 unimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 unimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
 ##2n2n
@@ -29,6 +29,7 @@ multimodal10 <- means10[f %in% c(f_interval)]
 multimodal20 <- means20[f %in% c(f_interval)]
 multimodal40 <- means40[f %in% c(f_interval)]
 ##sbx
+multimodal10_sbx <- means10_sbx[f %in% c(f_interval)]
 multimodal20_sbx <- means20_sbx[f %in% c(f_interval)]
 multimodal40_sbx <- means40_sbx[f %in% c(f_interval)]
 ##2n2n
@@ -54,6 +55,11 @@ friedman.test(min ~ k | f, data = means20)
 friedman.test(min ~ k | f, data = unimodal40)
 friedman.test(min ~ k | f, data = multimodal40)
 friedman.test(min ~ k | f, data = means40)
+
+# SBX - 10D
+friedman.test(min ~ k | f, data = unimodal10_sbx)
+friedman.test(min ~ k | f, data = multimodal10_sbx)
+friedman.test(min ~ k | f, data = means10_sbx)
 
 ## SBX - 20D
 friedman.test(min ~ k | f, data = unimodal20_sbx)
