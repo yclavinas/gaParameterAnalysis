@@ -8,7 +8,7 @@ setwd("~/Documents/estudos/gaParameterAnalysis/data/")
 library(rcompanion)
 
 #unimodal data
-f_interval=c(2,5,6,7,8,9,10,11,12,13,14)
+f_interval=c(1,2,5,6,7,8,9,10,11,12,13,14)
 ##uniform
 unimodal10 <- means10[f %in% c(f_interval)]
 unimodal20 <- means20[f %in% c(f_interval)]
@@ -97,8 +97,8 @@ friedman.test(min ~ k | f, data = means40_2n2n)
 # PT = pairwiseSignTest(min ~ k, data = means20, method = "fdr")
 # cldList(p.adjust ~ Comparison, data = PT, threshold = 0.05)
 
-PT = pairwiseSignTest(min ~ k, data = means40, method = "fdr")
-cldList(p.adjust ~ Comparison, data = PT, threshold = 0.05)
+# PT = pairwiseSignTest(min ~ k, data = means40, method = "fdr")
+# cldList(p.adjust ~ Comparison, data = PT, threshold = 0.05)
 
 # PT = pairwiseSignTest(min ~ k, data = pseudoData, method = "fdr")
 # cldList(p.adjust ~ Comparison, data = PT, threshold = 0.05)
